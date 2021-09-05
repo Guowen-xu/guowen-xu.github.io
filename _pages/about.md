@@ -24,14 +24,14 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
-- 2021.08.28 **One paper conditionally accepted by ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
-- 2021.08.10 **One paper  accepted by IEEE IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2021.08.02 **One paper accepted by IEEE Transactions on Information Forensics & Security(TIFS)**!
-- 2021.08.04 **One paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
-- 2021.07.10 **One paper accepted by European Symposium on Research in Computer Security(ESORICS)**!
-- 2021.05.10 **One paper accepted by IEEE Transactions on Cloud Computing(TCC)**!
-- 2021.03.29 **Dr Guowen Xu received the INFOCOM 2021 Student Conference Award**!
-- 2021.02.10 **One paper accepted by IEEE Transactions on Cloud Computing(TCC)**!
+- 2021.08.28 One paper conditionally accepted by **ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
+- 2021.08.10 One paper  accepted by **IEEE IEEE Transactions on Dependable and Secure Computing (TDSC)**!
+- 2021.08.02 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
+- 2021.08.04 One paper accepted by **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
+- 2021.07.10 One paper accepted by **European Symposium on Research in Computer Security(ESORICS)**!
+- 2021.05.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
+- 2021.03.29 Dr Guowen Xu received the **INFOCOM 2021 Student Conference Award**!
+- 2021.02.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
 - 
 
 
