@@ -20,7 +20,7 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 - **ML copyright protection**.
 
--**Adversarial attacks privacy attacks, and DNN backdoor attacks**
+- **Adversarial attacks privacy attacks, and DNN backdoor attacks**
 
 
 
