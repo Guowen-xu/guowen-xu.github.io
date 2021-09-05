@@ -11,14 +11,14 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 **Journal Papers**
 ======
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Distributed Robot Motion Control</u>*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-1. <span style="color: black">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed method to avoid higher-order deadlocks in multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109819305692)**." In *Automatica*, vol. 112, 2020. (IF: 6.355, Q1)
 
-1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A real-time and fully distributed approach to motion planning for multirobot systems](https://ieeexplore.ieee.org/abstract/document/8055437)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 49, no. 12 , pp. 2636-2650, 2019. (IF: 5.135, Q1)
+1. <span style="color:black">Guowen Xu</span>, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
 
-1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, Shang-Wei Lin, and Zuohua Ding, "**[A distributed approach to robust control of multi-robot systems](https://www.sciencedirect.com/science/article/pii/S0005109818304217)**." In *Automatica*, vol. 99, pp. 1-13, 2018. (IF: 6.355, Q1)
+2.<span style="color:black">Guowen Xu</span>, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
+
+3. <span style="color:black">Guowen Xu</span>, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
 
 1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, and Zuohua Ding. “**[Collision and deadlock avoidance in multirobot systems: A distributed approach](https://ieeexplore.ieee.org/abstract/document/7875176)**.” In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 47, no. 7, pp. 1712–1726, 2017. (IF: 5.135, Q1)
 
