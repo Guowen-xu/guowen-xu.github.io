@@ -8,71 +8,52 @@ author_profile: true
 
 You can find my articles on my [Google Scholar](https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN) or [DBLP](https://dblp.org/pid/87/10142.html).
 
-**Journal Papers**
+**First author papers**
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-1. <span style="color:black">Guowen Xu</span>, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
+1. **Guowen Xu**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. **IEEE Transactions on Information Forensics and Security**, vol.14, no.4, pp.870-885, 2018.
 
-1. <span style="color:black">Guowen Xu</span>, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
+2. **Guowen Xu**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. **IEEE Transactions on Information Forensics and Security**, vol.15, pp.911-926. 2019. 
 
-1. <span style="color:black">Guowen Xu</span>, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
+3. **Guowen Xu**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
 
-1. <span style="color:blue">Yuan Zhou</span>, Hesuan Hu, Yang Liu, and Zuohua Ding. “**[Collision and deadlock avoidance in multirobot systems: A distributed approach](https://ieeexplore.ieee.org/abstract/document/7875176)**.” In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 47, no. 7, pp. 1712–1726, 2017. (IF: 5.135, Q1)
-
-1. <span style="color:blue">周远</span>，胡核算，刘杨，林尚威， "**[分布式多机器人运动控制的离散事件系统方法](http://jcta.alljournals.ac.cn/CTA_CN/ch/reader/create_pdf.aspx?file_no=CCTA160918&flag=1&journal_id=CTA_CN&year_id=2018)**." 《控制理论与应用》，vol. 35, no. 1, pp. 110-120, 2018.
-
-   *<u>System Modeling and Analyzing</u>*
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and Mengchu Zhou, "**[Modeling self-adaptive software systems by fuzzy rules and Petri nets](https://ieeexplore.ieee.org/abstract/document/7917321)**." In *IEEE Transactions on Fuzzy Systems*, vol. 26, no. 2, pp. 967-984, 2018. (IF: 8.759, Q1)
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Modeling self-adaptive software systems with learning Petri nets](https://ieeexplore.ieee.org/abstract/document/7115165)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 46, no. 4, pp. 483–498, 2016. (IF: 2.35, Q2)
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Mingyue Jiang, and MengChu Zhou, “**[A new class of Petri nets for modeling and property verification of switched stochastic systems](https://ieeexplore.ieee.org/abstract/document/6995961/)**." In *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, vol. 45, no. 7, pp. 1087–1100, 2015. (IF: 1.598, Q2)
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[A polynomial algorithm to performance analysis of concurrent systems via Petri nets and ordinary differential equations](https://ieeexplore.ieee.org/abstract/document/6684591)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 12, no. 1, pp. 295–308, 2015. (IF: 2.696, Q1)
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, and MengChu Zhou, “**[Stability analysis of switched fuzzy systems via model checking](https://ieeexplore.ieee.org/abstract/document/6698303)**." In *IEEE Transactions on Fuzzy Systems*, vol. 22, no. 6, pp. 1503-1514, Dec. 2014. (IF: 8.746, Q1)
-
-   *<u>System Reliability</u>*
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, Geguang Pu, and Mengchu Zhou, "**[Online failure prediction for railway transportation systems based on Fuzzy rules and data analysis](https://ieeexplore.ieee.org/abstract/document/8357501)**." In *IEEE Transactions on Reliability*, vol. 67, no. 3, pp. 1143-1158, 2018. (IF: 2.888, Q1)
-
-1. Zuohua Ding, Ting Xu, Tiantian Ye, and <span style="color:blue">Yuan Zhou</span>, “**[Online prediction and improvement of reliability for service oriented systems](https://ieeexplore.ieee.org/abstract/document/7361770/)**.” In *IEEE Transactions on Reliability*, vol. 65, no. 3, pp. 1133–1148, 2016. (IF: 2.79, Q1)
-
-1. <span style="color:blue">周远</span>，丁佐华，"**[基于程序不变量计算软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4803&flag=1)**.", 《软件学报》， vol. 26, no. 12, pp. 3075-3087, 2015.
-
-1. 杨晓燕，<span style="color:blue">周远</span>，丁佐华，"**[基于在线故障定位及自主适应提高软件可靠性](http://www.jos.org.cn/jos/ch/reader/view_abstract.aspx?file_no=4761&flag=1)**.", 《软件学报》， vol. 26, no. 4, pp. 886-903, 2015.
-
-   *<u>Others</u>*
-
-1. Jipeng Wang, Chunrong Pan, Hesuan Hu, Liang Li, and <span style="color:blue">Yuan Zhou</span>, "**[A cyclic scheduling approach to single-arm cluster tools with multiple wafer types and residency time constraints](https://ieeexplore.ieee.org/abstract/document/8543218)**." In *IEEE Transactions on Automation Science and Engineering*, vol. 16, no, 3, pp. 1373-1386, 2019. (IF: 5.224, Q1)
-
-1. <span style="color:blue">周远</span>，徐映红，徐定华，"**[结合粒子群算法的一类双层纺织材料厚度设计反问题](http://www.fzxb.org.cn/CN/Y2013/V34/I6/40)**", 《纺织学报》，vol. 34, no. 6, pp. 40-45, 2013.
+4. **Guowen Xu**, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Haomiao Yang, Kan Yang, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks. in **Proceeding of ACM ACSAC**, Austin, Texas, USA, 2020, 1-15. 
+5. **Guowen Xu**, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Rob-ert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. in **Proceedings of ACM ASIACCS**, Taipei, Taiwan, China, 2020. pp.1-15.
+6. **Guowen Xu**, Hongwei Li, Rongxing Lu. Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems. in **Proceedings of ACM CCS**, Toronto, Canada. 2018, pp.2132-2134. (Poster) 
+7. 	**Guowen Xu**, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. **IEEE Transactions on Cloud Com-puting**, 2019. DOI: 10.1109/TCC.2020.2968893. 
+8. **Guowen Xu**, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. **IEEE Transactions on Vehicular Tech-nology**, vol.68, no.4, pp.3854-3865, 2019.
+9. **Guowen Xu**, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. **IEEE Communications Magazine**, vol.57, no.11, pp.116-122, 2019.
+10. **Guowen Xu**, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. **Computers & Security**, 2017, vol.69, pp.114 -126.
+11.**Guowen Xu**, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. in **Proceedings of IEEE ICPADS**, Hong Kong, China, 2020. pp.1-9. 
+12. Guowen Xu, Hongwei Li, Dongxiao Liu, Hao Ren, Yuanshun Dai, Xiaohui Liang. Towards Ef-ficient Privacy-Preserving Truth Discovery in Crowd Sensing Systems. in **Proceedings of IEEE GLOBECOM**, Washington, D.C, USA, 2016. pp.1-6.
+13. **Guowen Xu**, Yan Ren, Hongwei Li, Dongxiao Liu, Yuanshun Dai, Kan Yang. CryptMDB: A Practical Encrypted MongoDB over Big Data. in **Proceedings of IEEE ICC**, Paris, France, 2017. pp.1-6.
+14. **Guowen Xu**, Hongwei Li, Yuanshun Dai, Xiaodong Lin. EFRS: Enabling Efficient and Fi-ne-grained Range Search on Encrypted Spatial Data. in **Proceedings of IEEE ICC**, 2018，Kansas, USA ,pp.1-6.
+15. **Guowen Xu**, Hongwei Li, Wenlei Wang, Yue Chen, Haomiao Yang, Yanzhi Ren. Towards Practi-cal Personalized Recommendation with Multilevel Differential Privacy Controls. in **Proceedings of IEEE Bigsecurity**, Honolulu, HI, USA. pp.796-801, 2018.
 
 
 
 
-**Conference Papers**
+
+**Selected Co-auther Papers**
 ======
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*<u>Supervisory Control for Automated Manufacturing Systems</u>*
 
-1. Junyao Hou, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Decentralized supervisory control of generalized mutual exclusion constraints in Petri nets](https://ieeexplore.ieee.org/abstract/document/8256129)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 358-363.
 
-1. Nan Du, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu, “**[Robust control of automated manufacturing systems with complex structures using Petri nets](https://ieeexplore.ieee.org/abstract/document/8256130)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 364-369.
+1. Haoran Yuan*, Xiaofeng Chen, **Guowen Xu***, Jianting Ning, Joseph Liu, Robert H Deng.  Effi-cient and Verifiable Proof of Replication with Fast Fault Localization. in **Proceedings of IEEE INFOCOM**, Vancouver BC Canada, pp.1-9, 2021. 
+2. Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, **Guowen Xu**, Xinyi Huang, Robert H Deng. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Compu-ting. **IEEE Transactions on Dependable and Secure Computing**, 2020, DOI: 10.1109/TDSC.2020.3001557.
+3.  Shengmin Xu, Jianting Ning, Xinyi Huang, Yingjiu Li,**Guowen Xu**. Untouchable Once Revok-ing: A Practical and Secure Dynamic EHR Sharing System via Cloud. **IEEE Transactions on Dependable and Secure Computing**, 2021, to appear. 
+4.  Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. 2021. Privacy-Enhanced Federated Learning against Poisoning Adversaries. **IEEE Transactions on Information Forensics and Security**, 2021, to appear. 
+5.  Shengmin Xu, Jianting Ning, Jinhua Ma, Guowen Xu, Jiaming Yuan, Robert Deng. Revocable Policy-Based Chameleon Hash, in **Proceedings of ESORICS**, Virtual, 2021. 
+6.  Meng Hao, Hongwei Li, Xizhao Luo, **Guowen Xu**, Haomiao Yang and Sen Liu. Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence. **IEEE Transactions on Industrial Informatics**, 2019, DOI: 10.1109/TII.2019.2945367. 
+7.  Hao Ren, Hongwei Li, Dongxiao Liu,**Guowen Xu**，Nan Cheng, Sherman Shen. Priva-cy-preserving Efficient Verifiable Deep Packet Inspection for Cloud-assisted Middlebox. **IEEE Transactions on Cloud Computing**, 2020. DOI: 10.1109/TCC.2020.2991167. 
+8.  Hao Ren, Hongwei Li, Dongxiao Liu, **Guowen Xu**, Xuemin Shen. Enabling Secure and Versatile Packet Inspection with Probable Cause Privacy for Outsourced Middlebox. **IEEE Transactions on Cloud Computing**, 2020. DOI: 10.1109/TCC.2021.3059026. 
+9.  Guiqiang Hu, Hongwei Li,**Guowen Xu**, Xinqiang Ma. Enabling Simultaneous Content Regula-tion and Privacy Protection for Cloud Storage Image. **IEEE Transactions on Cloud Compu-ting**, 2021. DOI: 10.1109/TCC.2021.3081564. 
+10.  Haoxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, **Guowen Xu**, Xiaoming Huang, Zhe Liu. Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT. **IEEE Transactions on Industrial Informatics**, 2020, DOI: 10.1109/TII.2020.3046648. 
+11.  Shangwei Guo, Tianwei Zhang, **Guowen Xu**, Han Yu, Tao Xiang, Yang Liu. Topology-aware Differential Privacy for Decentralized Image Classification. **IEEE Transactions on Circuits and Systems for Video Technology**, 2021, DOI:10.1109/TCSVT.2021.3105723. 
 
-1. Xiaojun Wang, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, Yang Liu. “**[A robust control approach to automated manufacturing systems allowing failures and reworks with Petri nets](https://ieeexplore.ieee.org/abstract/document/8256131)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017:
-370-375.
 
-1. Jipeng Wang, Chunrong Pan, Hesuan Hu, <span style="color:blue">Yuan Zhou</span>, “**[Scheduling of single-arm cluster tools with multi-type wafers and shared PMs](https://ieeexplore.ieee.org/abstract/document/8256242)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2017: 1046-1051.
-
-   *<u>System Modeling and Analyzing</u>*
-
-1. Mingyue Jiang, Zuohua Ding, MengChu Zhou, <span style="color:blue">Yuan Zhou</span>, “**[Formal modeling and verification of secure mobile agent systems](https://ieeexplore.ieee.org/abstract/document/7294136)**.” In *13th IEEE Conference on Automation Science and Engineering (CASE)*, 2015: 545-550.
-
-1. Zuohua Ding, <span style="color:blue">Yuan Zhou</span>, MengChu Zhou, “**[Modeling self-adaptive software systems with learning Petri nets](https://dl.acm.org/citation.cfm?id=2591113)**.” *Companion Proceedings of the 36th International Conference on Software Engineering (ICSE Companion)*, 2014: 464-467.
 
