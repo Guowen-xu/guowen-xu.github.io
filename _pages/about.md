@@ -8,21 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently the Research Scholarship Block Postdoctoral Fellow (RSB-PDF) at Nanyang Technolgoical University with Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/). 
-I obtained my Ph.D. degree at 2019 from Nanyang Technological University, Singapore, under the supervision of Profs. [Hesuan Hu](https://web.xidian.edu.cn/hshu/), [Yang Liu](https://www.ntu.edu.sg/home/yangliu/), and [Shang-Wei Lin](https://www.ntu.edu.sg/home/shang-wei.lin/), and
-the Master degree at 2015 from Zhejiang Sci-Tech Universitory, Hangzhou, China, under the supervision of Prof. Zuohua Ding.
+ I am currently the Research  Fellow at Nanyang Technolgoical University with Prof Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I obtained my Ph.D. degree at 2020 from University of Electronic Science and Technology of China, under the supervision of Prof. [Hongwei Li](https://faculty.uestc.edu.cn/lihongwei/zh_CN/index.htm), and Bachelor degree  at 2014 from Anhui Jianzhu University, Anhui, China. Currently, I am very interested in designing attack techniques to identify AI system vulnerabilities, defense solutions to enhance AI system security and data privacy without compromising performance and usability, and methodologies of evaluating, quantifying and verifying AI system security&privacy threats and resistance.
 
-My research intertests focus on different topics related to motion control of mobile robots.
 
-- **Distributed control of multi-Robot systems**. 
 
-- **Robust control against robot failures and attacks**.
+I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
 
-- **AI aided motion control**.
+- **Privacy-preserving ML training and prediction**. 
 
-- **Autonomous vehicles security**.
+- **Robust training and verifiable inference**.
 
-- **Self-adaptive software systems for multi-robot systems**.
+- **ML copyright protection**.
+
+-**Adversarial attacks privacy attacks, and DNN backdoor attacks**
 
 
 
@@ -34,4 +32,4 @@ School of Computer Science and Engineering, Nanyang Technological University\\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 50 Nanyang Avenue, Singapore 639798
 
-*Email*: y.zhou AT ntu DOT edu DOT sg
+*Email*: guowen.xu AT ntu DOT edu DOT sg
