@@ -7,27 +7,19 @@ author_profile: true
 
 Related Journals
 ======
-- [IEEE Transactions on Robotics (T-RO)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
-- [The International Journal of Robotics Research (IJRR)](https://journals.sagepub.com/home/ijr)
-- [Automatica](https://www.journals.elsevier.com/automatica)
-- [IEEE Transactions on Automatic Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9)
-- [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)
-- [IEEE Transactions on Fuzzy Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91)
-- [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 - [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+- [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+- [Journal of Cryptology](https://www.iacr.org/jofc/)
 - ...
 
 
 Related Conferences
 ======
-- International Conference on Robotics and Automation (ICRA)
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
-- IEEE Conference on Decision and Control (CDC). 
-- American Control Conference (ACC)
-- ACM Conference on Computer and Communications Security (CCS)
-- USENIX Security Symposium (USENIX)
-- IEEE Symposium on Security and Privacy (S&P)
-- International Conference on Software Engineering (ICSE)
-- ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
-- IEEE/ACM International Conference on Automated Software Engineering (ASE)
+- [European Cryptology Conference (EUROCRYPT)](http://dblp.uni-trier.de/db/conf/eurocrypt/)
+- [International Cryptology Conference (CRYPTO)](http://dblp.uni-trier.de/db/conf/crypto/) 
+- [Annual International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT)](http://dblp.uni-trier.de/db/conf/asiacrypt/)
+- [IEEE Symposium on Security and Privacy (S&P)](http://dblp.uni-trier.de/db/conf/sp/)
+- [ACM Conference on Computer and Communications Security (CCS)](http://dblp.uni-trier.de/db/conf/ccs/)
+- [USENIX Security Symposium (USENIX)](http://dblp.uni-trier.de/db/conf/uss/)
+- [ISOC Network and Distributed System Security Symposium (NDSS)](http://dblp.uni-trier.de/db/conf/ndss/)
 - ...
