@@ -7,34 +7,28 @@ redirect_from:
   - /resume
 ---
 
-[Click Here for the PDF File](http://yuanzhou-yzhou.github.io/files/CV-Zhou.pdf)
+[Click Here for the PDF File](http://guowen-xu.github.io/files/CV-Zhou.pdf)
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Information and Computing Science, Zhejiang Sci-Tech University, 2012
-* M.S. in Computational Mathematics, Zhejiang Sci-Tech University, 2015
-  * Thesis: [Modeling and Verification of Self-adaptive Software Systems](http://yuanzhou-yzhou.github.io/files/master-thesis.pdf)
-* Ph.D. in Computer Science, Nanyang Technological University, 2019
-  * Thesis: [Distributed Approaches to Motion Planning and Control in Multi-Robot Systems](http://yuanzhou-yzhou.github.io/files/phd-thesis.pdf)
+* B.S. in Information and Computing Science, Anhui Jianzhu University, 2014
+* M.S. in Computer Technology, University of Electronic Science and Technology of China, 2017
+* Ph.D. in Cyberspace Security, University of Electronic Science and Technology of China, 2020
 
 Work Experience
 ======
-* May 2015 -- Jul 2019: Research Assistant
-  * Nanyang Technological University
-  * Duties included: Conducting research on motion control for multi-robot systems.
-  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
+* Aug 2018 -- Aug 2020: Visiting PhD student
+  * Singapore Management University, Supervisor: Prof. [Robert H Deng](http://www.mysmu.edu/faculty/robertdeng/)
 
-* Aug 2019 -- Present: Research Fellow
-  * Nanyang Technological University
-  * Duties included: Conduting research on motion control for mobile robots
-  * Supervisor: Prof. [Yang Liu](https://www.ntu.edu.sg/home/yangliu/)
+* Mar 2021 -- Present: Research Fellow
+  * Nanyang Technological University, Supervisor: Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/)
 
 
 Publications
 ======
-  The completed list of publications is also given in [Google Scholar](https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan).
+  The completed list of publications is also given in [Google Scholar](https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN) or [DBLP](https://dblp.org/pid/87/10142.html).
   
 Teaching
 ======
@@ -43,14 +37,15 @@ To appear.
 Services
 ======
 Serve as a reviewer for:
- * IEEE Transactions on Systems, Man, Cybernetics: Systems
- * IEEE Transactions on Intelligent Transportation Systems
- * IEEE Transactions on Automation Science and Engineering
- * IEEE Robotics and Automation Magazine
- * IEEE Transactions on Neural Networks and Learning Systems
- * IEEE Conference on Decision and Control (CDC)
- * IEEE International Conference on Robotics and Automation (ICRA)
- * IEEE International Conference on Automation Science and Engineering (CASE)
+* IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Dependable and Secure Computing
+* IEEE Transactions on Network and Service Management
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Knowledge and Data Engineering
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Services Computing
+* IEEE Transactions on Mobile Computing
+* IEEE Transactions on Neural Networks and Learning Systems
 
 Awards
 ======
