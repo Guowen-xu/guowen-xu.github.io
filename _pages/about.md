@@ -25,7 +25,7 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 What's News
 ======
 - 2021.08.28 **One paper conditionally accepted by ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
-- 2021.08.10 **One paper  accepted by IEEE IEEE Transactions on Dependable and Secure Computing (TDSC) **!
+- 2021.08.10 **One paper  accepted by IEEE IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2020.08.04 **One paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
 - 2020.07.10 **One paper accepted European Symposium on Research in Computer Security(ESORICS)**!
 
