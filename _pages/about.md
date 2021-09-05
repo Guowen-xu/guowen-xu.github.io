@@ -14,20 +14,25 @@ redirect_from:
 
 I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
 
-- **Privacy-preserving ML training and prediction**. 
+- *Privacy-preserving ML training and prediction*. 
 
-- **Robust training and verifiable inference**.
+- *Robust training and verifiable inference*.
 
-- **ML copyright protection**.
+- *ML copyright protection*.
 
-- **Adversarial attacks, privacy attacks, and DNN backdoor attacks**
+- *Adversarial attacks, privacy attacks, and DNN backdoor attacks*
 
 What's News
 ======
 - 2021.08.28 **One paper conditionally accepted by ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
 - 2021.08.10 **One paper  accepted by IEEE IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2020.08.04 **One paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
-- 2020.07.10 **One paper accepted European Symposium on Research in Computer Security(ESORICS)**!
+- 2021.08.02 **One paper accepted by IEEE Transactions on Information Forensics & Security(TIFS)**!
+- 2021.08.04 **One paper accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
+- 2021.07.10 **One paper accepted by European Symposium on Research in Computer Security(ESORICS)**!
+- 2021.05.10 **One paper accepted by IEEE Transactions on Cloud Computing(TCC)**!
+- 2021.03.29 **Dr Guowen Xu received the INFOCOM 2021 Student Conference Award**!
+- 2021.02.10 **One paper accepted by IEEE Transactions on Cloud Computing(TCC)**!
+- 
 
 
 Contact
