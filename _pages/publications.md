@@ -60,5 +60,12 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
  
 11.  Shangwei Guo, Tianwei Zhang, **Guowen Xu**, Han Yu, Tao Xiang, Yang Liu. Topology-aware Differential Privacy for Decentralized Image Classification. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, DOI:10.1109/TCSVT.2021.3105723. 
 
+12. Yiran Li, Hongwei Li, **Guowen Xu**, Tao Xiang, Xiaoming Huang, Rongxing Lu. Towards Secure and Privacy-Preserving Distributed Deep Learning in Fog-Cloud Computing. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.3012480.
+
+13. Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Sen Liu, Zhe Liu, Rongxing Lu. PADL: Privacy-aware and Asynchronous Deep Learning for IoT Applications[J]. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.2981379.
+
+14. Jianfei Sun, Dajiang Chen, Ning Zhang, **Guowen Xu**, Mingjian Tang, Xuyun Nie, Mingsheng Cao. A Privacy-aware and Traceable Fine-grained Data Delivery System in Cloud-assisted Healthcare IIoT. *IEEE Internet of things journal*, 2021, to appear.
+
+
 
 
