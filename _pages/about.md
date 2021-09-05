@@ -22,6 +22,9 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 - **Adversarial attacks, privacy attacks, and DNN backdoor attacks**
 
+What's News
+======
+- 2021.08 **One paper accepted by EEORICS 2021**! 
 
 
 Contact
