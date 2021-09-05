@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guowen Xu"
   avatar           : "guo.jpg"
-  bio              : "RSB Postdoctoral Fellow at Nanyang Technological University"
+  bio              : "Postdoctoral Research Fellow at Nanyang Technological University"
   location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LpQcf2UAAAAJ"
-  email            : "y.zhou@ntu.edu.sg"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN"
+  email            : "guowen.xu@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-1583-7570"
+  orcid            : "https://orcid.org/0000-0002-9764-9345"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://dblp.uni-trier.de/pers/hd/z/Zhou_0005:Yuan"
+  dblp             : "https://dblp.org/pid/87/10142.html"
   wikipedia        :
 
 
