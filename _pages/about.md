@@ -32,7 +32,6 @@ What's News
 - 2021.05.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
 - 2021.03.29 Dr Guowen Xu received the **INFOCOM 2021 Student Conference Award**!
 - 2021.02.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
-- 
 
 
 Contact
