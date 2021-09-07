@@ -49,8 +49,9 @@ Serve as a reviewer for:
 
 Awards
 ======
-* Outstanding Graduate Student in Sichuan Province, Sichuan Province, June 2021
-* Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC, June 2021
+* Excellent Doctoral Dissertation Award of University of Electronic Science and Technology of China, 2021
+* Outstanding Graduate Student in Sichuan Province, Sichuan Province,  2021
+* Outstanding Graduate Student of University of Electronic Science and Technology of China, UESTC,  2021
 * IEEE INFOCOM Student Travel Grant, IEEE Communications Society, 2021
 * IEEE ICPADS Best Paper Award, IEEE Computer Society, 2020
 * National Scholarship of Graduate Student, Ministry of Education of the People's Republic of China, 2020
