@@ -33,25 +33,26 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
 
-**Selected Co-auther Papers**
+**Selected Co-auther Papers** (\* corresponding author)
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 1. Haoran Yuan\*, Xiaofeng Chen, **Guowen Xu** \*, Jianting Ning, Joseph Liu, Robert H Deng.  Effi-cient and Verifiable Proof of Replication with Fast Fault Localization. in *Proceedings of IEEE INFOCOM*, Vancouver BC Canada, pp.1-9, 2021. 
-2. Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, **Guowen Xu**, Xinyi Huang, Robert H Deng. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Compu-ting. *IEEE Transactions on Dependable and Secure Computing*, 2020, DOI: 10.1109/TDSC.2020.3001557.
-3.  Shengmin Xu, Jianting Ning, Xinyi Huang, Yingjiu Li,**Guowen Xu**. Untouchable Once Revok-ing: A Practical and Secure Dynamic EHR Sharing System via Cloud. *IEEE Transactions on Dependable and Secure Computing*, 2021, to appear. 
-4.  Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. 2021. Privacy-Enhanced Federated Learning against Poisoning Adversaries. *IEEE Transactions on Information Forensics and Security*, 2021, to appear. 
-5.  Shengmin Xu, Jianting Ning, Jinhua Ma, **Guowen Xu**, Jiaming Yuan, Robert Deng. Revocable Policy-Based Chameleon Hash, in *Proceedings of ESORICS*, Virtual, 2021. 
-6.  Meng Hao, Hongwei Li, Xizhao Luo, **Guowen Xu**, Haomiao Yang and Sen Liu. Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence. *IEEE Transactions on Industrial Informatics*, 2019, DOI: 10.1109/TII.2019.2945367. 
-7.  Hao Ren, Hongwei Li, Dongxiao Liu,**Guowen Xu**，Nan Cheng, Sherman Shen. Priva-cy-preserving Efficient Verifiable Deep Packet Inspection for Cloud-assisted Middlebox. *IEEE Transactions on Cloud Computing*, 2020. DOI: 10.1109/TCC.2020.2991167. 
-8.  Hao Ren, Hongwei Li, Dongxiao Liu, **Guowen Xu**, Xuemin Shen. Enabling Secure and Versatile Packet Inspection with Probable Cause Privacy for Outsourced Middlebox. *IEEE Transactions on Cloud Computing*, 2020. DOI: 10.1109/TCC.2021.3059026. 
-9.  Guiqiang Hu, Hongwei Li,**Guowen Xu**, Xinqiang Ma. Enabling Simultaneous Content Regula-tion and Privacy Protection for Cloud Storage Image. *IEEE Transactions on Cloud Compu-ting*, 2021. DOI: 10.1109/TCC.2021.3081564. 
-10.  Haoxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, **Guowen Xu**, Xiaoming Huang, Zhe Liu. Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT. *IEEE Transactions on Industrial Informatics*, 2020, DOI: 10.1109/TII.2020.3046648. 
-11.  Shangwei Guo, Tianwei Zhang, **Guowen Xu**, Han Yu, Tao Xiang, Yang Liu. Topology-aware Differential Privacy for Decentralized Image Classification. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, DOI:10.1109/TCSVT.2021.3105723. 
-12. Yiran Li, Hongwei Li, **Guowen Xu**, Tao Xiang, Xiaoming Huang, Rongxing Lu. Towards Secure and Privacy-Preserving Distributed Deep Learning in Fog-Cloud Computing. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.3012480.
-13. Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Sen Liu, Zhe Liu, Rongxing Lu. PADL: Privacy-aware and Asynchronous Deep Learning for IoT Applications[J]. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.2981379.
-14. Jianfei Sun, Dajiang Chen, Ning Zhang, **Guowen Xu**, Mingjian Tang, Xuyun Nie, Mingsheng Cao. A Privacy-aware and Traceable Fine-grained Data Delivery System in Cloud-assisted Healthcare IIoT. *IEEE Internet of things journal*, 2021, to appear.
+2. Jianfei Sun,  **Guowen Xu** \*, Tianwei Zhang, Hu Xiong, Hongwei Li, Robert H Deng. Share your data carefree: An efficient, scalable and privacy-preserving data sharing service in cloud computing. *IEEE Transactions on Cloud Computing*, 2021. 
+3. Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, **Guowen Xu**, Xinyi Huang, Robert H Deng. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Compu-ting. *IEEE Transactions on Dependable and Secure Computing*, 2020, DOI: 10.1109/TDSC.2020.3001557.
+4.  Shengmin Xu, Jianting Ning, Xinyi Huang, Yingjiu Li,**Guowen Xu**. Untouchable Once Revok-ing: A Practical and Secure Dynamic EHR Sharing System via Cloud. *IEEE Transactions on Dependable and Secure Computing*, 2021, to appear. 
+5.  Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. 2021. Privacy-Enhanced Federated Learning against Poisoning Adversaries. *IEEE Transactions on Information Forensics and Security*, 2021, to appear. 
+6.  Shengmin Xu, Jianting Ning, Jinhua Ma, **Guowen Xu**, Jiaming Yuan, Robert Deng. Revocable Policy-Based Chameleon Hash, in *Proceedings of ESORICS*, Virtual, 2021. 
+7.  Meng Hao, Hongwei Li, Xizhao Luo, **Guowen Xu**, Haomiao Yang and Sen Liu. Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence. *IEEE Transactions on Industrial Informatics*, 2019, DOI: 10.1109/TII.2019.2945367. 
+8.  Hao Ren, Hongwei Li, Dongxiao Liu,**Guowen Xu**，Nan Cheng, Sherman Shen. Priva-cy-preserving Efficient Verifiable Deep Packet Inspection for Cloud-assisted Middlebox. *IEEE Transactions on Cloud Computing*, 2020. DOI: 10.1109/TCC.2020.2991167. 
+9.  Hao Ren, Hongwei Li, Dongxiao Liu, **Guowen Xu**, Xuemin Shen. Enabling Secure and Versatile Packet Inspection with Probable Cause Privacy for Outsourced Middlebox. *IEEE Transactions on Cloud Computing*, 2020. DOI: 10.1109/TCC.2021.3059026. 
+10.  Guiqiang Hu, Hongwei Li,**Guowen Xu**, Xinqiang Ma. Enabling Simultaneous Content Regula-tion and Privacy Protection for Cloud Storage Image. *IEEE Transactions on Cloud Compu-ting*, 2021. DOI: 10.1109/TCC.2021.3081564. 
+11.  Haoxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, **Guowen Xu**, Xiaoming Huang, Zhe Liu. Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT. *IEEE Transactions on Industrial Informatics*, 2020, DOI: 10.1109/TII.2020.3046648. 
+12.  Shangwei Guo, Tianwei Zhang, **Guowen Xu**, Han Yu, Tao Xiang, Yang Liu. Topology-aware Differential Privacy for Decentralized Image Classification. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, DOI:10.1109/TCSVT.2021.3105723. 
+13. Yiran Li, Hongwei Li, **Guowen Xu**, Tao Xiang, Xiaoming Huang, Rongxing Lu. Towards Secure and Privacy-Preserving Distributed Deep Learning in Fog-Cloud Computing. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.3012480.
+14. Xiaoyuan Liu, Hongwei Li, **Guowen Xu**, Sen Liu, Zhe Liu, Rongxing Lu. PADL: Privacy-aware and Asynchronous Deep Learning for IoT Applications[J]. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.2981379.
+15. Jianfei Sun, Dajiang Chen, Ning Zhang, **Guowen Xu**, Mingjian Tang, Xuyun Nie, Mingsheng Cao. A Privacy-aware and Traceable Fine-grained Data Delivery System in Cloud-assisted Healthcare IIoT. *IEEE Internet of things journal*, 2021, to appear.
 
 
 
