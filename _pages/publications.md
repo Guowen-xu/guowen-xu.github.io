@@ -13,21 +13,21 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-1. **Guowen Xu**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
-2. **Guowen Xu**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
-3. **Guowen Xu**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
-4. **Guowen Xu**, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Haomiao Yang, Kan Yang, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks. in *Proceeding of ACM ACSAC*, Austin, Texas, USA, 2020, 1-15. 
-5. **Guowen Xu**, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Rob-ert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. in *Proceedings of ACM ASIACCS*, Taipei, Taiwan, China, 2020. pp.1-15.
-6. **Guowen Xu**, Hongwei Li, Rongxing Lu. Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems. in *Proceedings of ACM CCS*, Toronto, Canada. 2018, pp.2132-2134. (Poster) 
-7. 	**Guowen Xu**, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. *IEEE Transactions on Cloud Computing*, 2019. DOI: 10.1109/TCC.2020.2968893. 
-8. **Guowen Xu**, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. *IEEE Transactions on Vehicular Technology*, vol.68, no.4, pp.3854-3865, 2019.
-9. **Guowen Xu**, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. *IEEE Communications Magazine*, vol.57, no.11, pp.116-122, 2019.
-10. **Guowen Xu**, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. *Computers & Security*, 2017, vol.69, pp.114 -126.
-11. **Guowen Xu**, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. in *Proceedings of IEEE ICPADS*, Hong Kong, China, 2020. pp.1-9. 
-12. **Guowen Xu**, Hongwei Li, Dongxiao Liu, Hao Ren, Yuanshun Dai, Xiaohui Liang. Towards Ef-ficient Privacy-Preserving Truth Discovery in Crowd Sensing Systems. in *Proceedings of IEEE GLOBECOM*, Washington, D.C, USA, 2016. pp.1-6.
-13. **Guowen Xu**, Yan Ren, Hongwei Li, Dongxiao Liu, Yuanshun Dai, Kan Yang. CryptMDB: A Practical Encrypted MongoDB over Big Data. in *Proceedings of IEEE ICC*, Paris, France, 2017. pp.1-6.
-14. **Guowen Xu**, Hongwei Li, Yuanshun Dai, Xiaodong Lin. EFRS: Enabling Efficient and Fi-ne-grained Range Search on Encrypted Spatial Data. in *Proceedings of IEEE ICC*, 2018，Kansas, USA ,pp.1-6.
-15. **Guowen Xu**, Hongwei Li, Wenlei Wang, Yue Chen, Haomiao Yang, Yanzhi Ren. Towards Practi-cal Personalized Recommendation with Multilevel Differential Privacy Controls. in *Proceedings of IEEE Bigsecurity*, Honolulu, HI, USA. pp.796-801, 2018.
+1. [**TIFS 2018**]**Guowen Xu**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
+2. [**TIFS 2019**]**Guowen Xu**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
+3. [**TDSC 2020**]**Guowen Xu**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
+4. [**ACSAC 2020**]**Guowen Xu**, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Haomiao Yang, Kan Yang, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks. in *Proceeding of ACM ACSAC*, Austin, Texas, USA, 2020, 1-15. 
+5. [**ASIACCS 2020**]**Guowen Xu**, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Rob-ert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. in *Proceedings of ACM ASIACCS*, Taipei, Taiwan, China, 2020. pp.1-15.
+6. [**CCS 2018 (Poster) **]**Guowen Xu**, Hongwei Li, Rongxing Lu. Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems. in *Proceedings of ACM CCS*, Toronto, Canada. 2018, pp.2132-2134. (Poster) 
+7. 	[**TCC 2019**]**Guowen Xu**, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. *IEEE Transactions on Cloud Computing*, 2019. DOI: 10.1109/TCC.2020.2968893. 
+8. [**TVT 2019**] **Guowen Xu**, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. *IEEE Transactions on Vehicular Technology*, vol.68, no.4, pp.3854-3865, 2019.
+9.[**IEEE Commun Mag 2019**] **Guowen Xu**, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. *IEEE Communications Magazine*, vol.57, no.11, pp.116-122, 2019.
+10. [**Comput Secur 2017**]**Guowen Xu**, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. *Computers & Security*, 2017, vol.69, pp.114 -126.
+11. [**ICPADS 2020**]**Guowen Xu**, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. in *Proceedings of IEEE ICPADS*, Hong Kong, China, 2020. pp.1-9. $\color{red}{Best Paper Award}$.
+12.[**Globelcom 2016**] **Guowen Xu**, Hongwei Li, Dongxiao Liu, Hao Ren, Yuanshun Dai, Xiaohui Liang. Towards Ef-ficient Privacy-Preserving Truth Discovery in Crowd Sensing Systems. in *Proceedings of IEEE GLOBECOM*, Washington, D.C, USA, 2016. pp.1-6.
+13. [**ICC 2017**]**Guowen Xu**, Yan Ren, Hongwei Li, Dongxiao Liu, Yuanshun Dai, Kan Yang. CryptMDB: A Practical Encrypted MongoDB over Big Data. in *Proceedings of IEEE ICC*, Paris, France, 2017. pp.1-6.
+14.[**ICC 2018**] **Guowen Xu**, Hongwei Li, Yuanshun Dai, Xiaodong Lin. EFRS: Enabling Efficient and Fi-ne-grained Range Search on Encrypted Spatial Data. in *Proceedings of IEEE ICC*, 2018，Kansas, USA ,pp.1-6.
+15. [**Bigsecurity 2018**]**Guowen Xu**, Hongwei Li, Wenlei Wang, Yue Chen, Haomiao Yang, Yanzhi Ren. Towards Practi-cal Personalized Recommendation with Multilevel Differential Privacy Controls. in *Proceedings of IEEE Bigsecurity*, Honolulu, HI, USA. pp.796-801, 2018.
 
 
 
