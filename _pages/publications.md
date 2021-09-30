@@ -13,7 +13,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
-1. **[TIFS 2018]**  $\color{blue}{Guowen Xu}$, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
+1. **[TIFS 2018]**  \color{blue}{Guowen Xu}, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
 2. **[TIFS 2019]** **Guowen Xu**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
 3. [**TDSC 2020**] **Guowen Xu**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
 4. [**ACSAC 2020**] **Guowen Xu**, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Haomiao Yang, Kan Yang, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks. in *Proceeding of ACM ACSAC*, Austin, Texas, USA, 2020, 1-15. 
