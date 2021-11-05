@@ -37,7 +37,7 @@ To appear.
 Services
 ======
 Technical Program Committee:
-* International Conference on Knowledge Science, Engineering and Management (KSEM).[https://ksem22.smart-conf.net/committee.html], 2022.
+* International Conference on Knowledge Science, Engineering and Management (KSEM).(https://ksem22.smart-conf.net/committee.html), 2022.
 
 Serve as a reviewer for:
 * IEEE Transactions on Information Forensics and Security
