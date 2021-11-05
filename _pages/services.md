@@ -4,6 +4,9 @@ title: "Services"
 permalink: /services/
 author_profile: true
 ---
+Technical Program Committee:
+======
+* [International Conference on Knowledge Science, Engineering and Management (KSEM)](https://ksem22.smart-conf.net/committee.html), 2022.
 
 Reviewer
 ======
