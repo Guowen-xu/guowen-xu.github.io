@@ -24,6 +24,7 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
+- 2021.11.05 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2021.09.28 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
 - 2021.08.28 One paper conditionally accepted by **ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
 - 2021.08.10 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
