@@ -8,7 +8,7 @@ author_profile: true
 
 You can find my articles on my [Google Scholar](https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN) or [DBLP](https://dblp.org/pid/87/10142.html).
 
-**Journal Papers** 
+**Journal Papers** (\* Corresponding Author) 
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
