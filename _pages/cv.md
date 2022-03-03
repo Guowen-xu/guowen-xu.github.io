@@ -19,7 +19,7 @@ Education
 
 Work Experience
 ======
-* Aug 2018 -- Aug 2020: Visiting PhD student
+* Aug 2019 -- Aug 2020: Visiting PhD student
   * Singapore Management University, Supervisor: Prof. [Robert H Deng](http://www.mysmu.edu/faculty/robertdeng/)
 
 * Mar 2021 -- Present: Research Fellow
