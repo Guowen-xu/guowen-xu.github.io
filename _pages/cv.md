@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click Here for the PDF File](http://guowen-xu.github.io/files/CV-Guowen-chinese-version.pdf)
+[Click Here for the PDF File](http://guowen-xu.github.io/files/CV-Guowen-chinese.pdf)
 
 {% include base_path %}
 
