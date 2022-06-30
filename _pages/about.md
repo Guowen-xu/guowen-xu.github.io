@@ -24,7 +24,8 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
-- 2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
+-2022.06.30 One paper accepted by **ACM Multimedia (MM)**! 
+-  2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
 - 2021.12.24 One paper accepted by **IEEE Transactions on Vehicular Technology(TVT)**! 
 - 2021.11.21 One paper  accepted by **IEEE Internet of Things Journal (IoT-J)**!
 - 2021.11.05 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
