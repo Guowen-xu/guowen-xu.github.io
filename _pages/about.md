@@ -24,7 +24,7 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
-- 2022.07.01 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
+- 2022.07.04 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
 - 2022.06.30 One paper accepted by **ACM Multimedia (MM) 2022**! 
 - 2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
 - 2021.12.24 One paper accepted by **IEEE Transactions on Vehicular Technology(TVT)**! 
