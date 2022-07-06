@@ -28,7 +28,6 @@ What's News
 - 2022.06.30 One paper accepted by **ACM Multimedia (MM) 2022**! 
 - 2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
 - 2021.12.24 One paper accepted by **IEEE Transactions on Vehicular Technology(TVT)**! 
-- 2021.11.21 One paper  accepted by **IEEE Internet of Things Journal (IoT-J)**!
 - 2021.11.05 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2021.09.28 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
 - 2021.08.28 One paper conditionally accepted by **ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
