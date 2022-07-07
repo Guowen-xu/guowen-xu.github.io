@@ -34,11 +34,6 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 18.  **[TII 2020]** Haoxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Xiaoming Huang, Zhe Liu. Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT. *IEEE Transactions on Industrial Informatics*, 2020, DOI: 10.1109/TII.2020.3046648. 
 19. **[TCSVT 2021]** Shangwei Guo, Tianwei Zhang, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Han Yu, Tao Xiang, Yang Liu. Topology-aware Differential Privacy for Decentralized Image Classification. *IEEE Transactions on Circuits and Systems for Video Technology*, 2021, DOI:10.1109/TCSVT.2021.3105723. 
 20. **[TVT 2021]** Yiran Li, Hongwei Li, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Tao Xiang, Rongxing Lu. Practical Privacy-Preserving Federated Learning in Vehicular Fog Computing. *IEEE Transactions on Vehicular Technology*, 2021, to appear.
-<!-- 这是一段被注释掉的文字 22. **[IoT-J 2020]** Yiran Li, Hongwei Li, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Tao Xiang, Xiaoming Huang, Rongxing Lu. Towards Secure and Privacy-Preserving Distributed Deep Learning in Fog-Cloud Computing. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.3012480.
-23. **[IoT-J 2020]** Xiaoyuan Liu, Hongwei Li, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Sen Liu, Zhe Liu, Rongxing Lu. PADL: Privacy-aware and Asynchronous Deep Learning for IoT Applications[J]. *IEEE Internet of things journal*, 2020, DOI: 10.1109/JIOT.2020.2981379.
-24. **[IoT-J 2021]** Jianfei Sun, Dajiang Chen, Ning Zhang, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Mingjian Tang, Xuyun Nie, Mingsheng Cao. A Privacy-aware and Traceable Fine-grained Data Delivery System in Cloud-assisted Healthcare IIoT. *IEEE Internet of things journal*, 2021, to appear.
-25. **[IoT-J 2021]** Yiran Li, Hongwei Li, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Xiaoming Huang, Rongxing Lu. Efficient Privacy-Preserving Federated Learning with Unreliable Users. *IEEE Internet of things journal*, 2021, to appear.-->
-
 
 
 
