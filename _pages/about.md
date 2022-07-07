@@ -50,4 +50,4 @@ School of Computer Science and Engineering, Nanyang Technological University\\
 
 *Email*: guowen.xu AT ntu DOT edu DOT sg
 
-*Wechat*: leslie120605
+
