@@ -24,7 +24,7 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
--2022.07.30 I was invited to serve as a TPC member in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**).
+- 2022.07.30 I was invited to serve as a TPC member in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI 2023**).
 - 2022.07.12 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
 - 2022.07.04 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
 - 2022.06.30 One paper accepted by **ACM Multimedia (MM) 2022**! 
