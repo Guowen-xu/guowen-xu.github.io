@@ -14,7 +14,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
  
-1. **[TIFS 2022]** Jianfei Sun, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**\*, Tianwei Zhang, Mamoun Alazab, Robert H. Deng. A Practical Fog-based Privacy-preserving Online Car-hailing Service System. *IEEE Transactions on Information Forensics and Security*, 2022, to appear.
+1. **[TIFS 2022]** Jianfei Sun, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**\*, Tianwei Zhang, Mamoun Alazab, Robert H. Deng. [A Practical Fog-based Privacy-preserving Online Car-hailing Service System.](https://ieeexplore.ieee.org/document/9849044) *IEEE Transactions on Information Forensics and Security*, 2022, to appear.
 2. **[TIFS 2018]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
 3. **[TIFS 2019]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
 4. [**TDSC 2020**] **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Priva-cy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Depend-able and Secure Computing*, 2020. DOI: 10.1109/TDSC.2020.3005909.
