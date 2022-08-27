@@ -24,6 +24,8 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
 What's News
 ======
+- 2022.08.27 One paper  accepted by **ACM Conference on Computer and Communications Security (ACM CCS
+2022)**!
 - 2022.08.22 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2022.07.12 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
 - 2022.07.04 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
