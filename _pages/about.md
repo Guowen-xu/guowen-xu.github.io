@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am currently a Research  Fellow at Nanyang Technolgoical University with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I obtained my Ph.D. degree at 2020 from University of Electronic Science and Technology of China, under the supervision of Prof. [Hongwei Li](https://faculty.uestc.edu.cn/lihongwei/zh_CN/index.htm), and Bachelor degree  at 2014 from Anhui Jianzhu University, Anhui, China. Currently, I am very interested in designing attack techniques to identify AI system vulnerabilities, defense solutions to enhance AI system security and data privacy without compromising performance and usability. I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
+ I am currently a Research  Fellow at Nanyang Technolgoical University with Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). I obtained my Ph.D. degree at 2020 from University of Electronic Science and Technology of China, under the supervision of Prof. [Hongwei Li](https://faculty.uestc.edu.cn/lihongwei/zh_CN/index.htm), and Bachelor degree  at 2014 from Anhui Jianzhu University, Anhui, China. I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
 
 
 What's News
