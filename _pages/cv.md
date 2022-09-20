@@ -53,6 +53,7 @@ Serve as a reviewer for:
 
 Awards
 ======
+* ECCV Online Registration Waiver Award, Committee of European Conference on Computer Vision, 2022
 * Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress, Chinese Association for Artificial Intelligence, 2021
 * Excellent Doctoral Dissertation Award of University of Electronic Science and Technology of China, 2021
 * Outstanding Graduate Student in Sichuan Province, Sichuan Province,  2021
