@@ -13,7 +13,8 @@ redirect_from:
 
 What's News
 ======
-- 2022.09.20 Dr Guowen Xu received the **ECCV 2022 Online Registration Waiver Award**!
+- 2022.10.08 Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
+- 2022.09.20 Dr. Guowen Xu received the **ECCV 2022 Online Registration Waiver Award**!
 - 2022.09.15 One paper  accepted by the **Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022**! 
 - 2022.08.27 One paper  accepted by <font face="Times New Roman" color=red size=4> ACM Conference on Computer and Communications Security (ACM CCS
 2022)</font> !
@@ -31,7 +32,7 @@ What's News
 - 2021.08.04 One paper accepted by **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
 - 2021.07.10 One paper accepted by **European Symposium on Research in Computer Security(ESORICS)**!
 - 2021.05.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
-- 2021.03.29 Dr Guowen Xu received the **INFOCOM 2021 Student Conference Award**!
+- 2021.03.29 Dr Guowen. Xu received the **INFOCOM 2021 Student Conference Award**!
 - 2021.02.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
 
 
