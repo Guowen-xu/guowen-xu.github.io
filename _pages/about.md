@@ -13,6 +13,8 @@ redirect_from:
 
 What's News
 ======
+- 2022.10.09 Dr. Guowen Xu was invited to join the program committee of TheWebConf2023 **(The ACM
+Web Conference 2023)**!
 - 2022.10.08 Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
 - 2022.09.20 Dr. Guowen Xu received the **ECCV 2022 Online Registration Waiver Award**!
 - 2022.09.15 One paper  accepted by the **Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022**! 
