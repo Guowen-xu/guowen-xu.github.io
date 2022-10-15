@@ -8,8 +8,8 @@ Technical Program Committee:
 ======
 * [International Conference on Knowledge Science, Engineering and Management (KSEM)](https://ksem22.smart-conf.net/committee.html), 2022.
 * [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023
-* Distinguished Review Board for ACM Transactions on the Web
-* The ACM Web Conference 2023
+* [Distinguished Reviewer Board for ACM Transactions on the Web](https://dl.acm.org/journal/tweb), 2022-2024
+* [The ACM Web Conference 2023](https://www2023.thewebconf.org/), 2023
 
 Reviewer
 ======
