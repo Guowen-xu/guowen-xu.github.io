@@ -13,6 +13,7 @@ redirect_from:
 
 What's News
 ======
+- 2022.10.28 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2022.10.09 Dr. Guowen Xu was invited to join the program committee of TheWebConf2023 **(The ACM
 Web Conference 2023)**!
 - 2022.10.08 Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
