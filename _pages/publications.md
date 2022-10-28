@@ -14,7 +14,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
  
-1. **[TDSC 2022]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Xingshuo Han, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. Hercules: Boosting the Performance of Privacy-preserving Federated Learning IEEE Transactions on Depend-able and Secure Computing*, 2022, to appear.
+1. **[TDSC 2022]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Xingshuo Han, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. Hercules: Boosting the Performance of Privacy-preserving Federated Learning *IEEE Transactions on Depend-able and Secure Computing*, 2022, to appear.
 2. **[TIFS 2022]** Jianfei Sun, **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**\*, Tianwei Zhang, Mamoun Alazab, Robert H. Deng. [A Practical Fog-based Privacy-preserving Online Car-hailing Service System.](https://ieeexplore.ieee.org/document/9849044) *IEEE Transactions on Information Forensics and Security*, 2022, to appear.
 3. **[TIFS 2018]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. [Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data.](https://ieeexplore.ieee.org/document/8452984) *IEEE Transactions on Information Forensics and Security*, vol.14, no.4, pp.870-885, 2018.
 4. **[TIFS 2019]**  **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. [VerifyNet: Secure and Verifiable Federated Learning.](https://ieeexplore.ieee.org/document/8765347) *IEEE Transactions on Information Forensics and Security*, vol.15, pp.911-926. 2019. 
