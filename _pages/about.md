@@ -13,6 +13,7 @@ redirect_from:
 
 What's News
 ======
+- 2022.11.20 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
 - 2022.10.28 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2022.10.09 Dr. Guowen Xu was invited to join the program committee of TheWebConf2023 **(The ACM
 Web Conference 2023)**!
