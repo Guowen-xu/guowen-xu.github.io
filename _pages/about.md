@@ -27,17 +27,7 @@ Web Conference 2023)**!
 - 2022.07.04 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
 - 2022.06.30 One paper accepted by **ACM Multimedia (MM) 2022**! 
 - 2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
-- 2021.12.24 One paper accepted by **IEEE Transactions on Vehicular Technology(TVT)**! 
-- 2021.11.05 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2021.09.28 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
-- 2021.08.28 One paper conditionally accepted by **ACM Annual Computer Security Applications Conference (ACSAC) 2021**! 
-- 2021.08.10 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2021.08.02 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
-- 2021.08.04 One paper accepted by **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**!
-- 2021.07.10 One paper accepted by **European Symposium on Research in Computer Security(ESORICS)**!
-- 2021.05.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
-- 2021.03.29 Dr Guowen. Xu received the **INFOCOM 2021 Student Conference Award**!
-- 2021.02.10 One paper accepted by **IEEE Transactions on Cloud Computing(TCC)**!
+
 
 
 Contact
