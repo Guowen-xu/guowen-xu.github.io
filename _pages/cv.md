@@ -13,8 +13,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in Information and Computing Science, Anhui Jianzhu University, 2014
-* M.S. in Computer Technology, University of Electronic Science and Technology of China, 2017
 * Ph.D. in Cyberspace Security, University of Electronic Science and Technology of China, 2020
 
 Work Experience
