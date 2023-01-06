@@ -24,7 +24,7 @@ What's News
 Web Conference 2023)**!
 - 2022.10.08 Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
 - 2022.09.15 One paper  accepted by the **Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022**! 
-- 2022.08.27 One paper  accepted by <font face="Times New Roman" color=red size=4> ACM Conference on Computer and Communications Security (ACM CCS
+- 2022.08.27 One paper  accepted by <font face="Times New Roman" color=black size=4> ACM Conference on Computer and Communications Security (ACM CCS
 2022)</font> !
 - 2022.08.22 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2022.07.12 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
