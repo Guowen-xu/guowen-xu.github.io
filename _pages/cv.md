@@ -37,6 +37,9 @@ Services
 Technical Program Committee:
 * [International Conference on Knowledge Science, Engineering and Management (KSEM)](https://ksem22.smart-conf.net/committee.html), 2022.
 * [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023
+* [Distinguished Reviewer Board for ACM Transactions on the Web](https://dl.acm.org/journal/tweb), 2022-2024
+* [The ACM Web Conference 2023](https://www2023.thewebconf.org/), 2023
+* [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
 
 Serve as a reviewer for:
 * IEEE Transactions on Information Forensics and Security
@@ -48,6 +51,7 @@ Serve as a reviewer for:
 * IEEE Transactions on Services Computing
 * IEEE Transactions on Mobile Computing
 * IEEE Transactions on Neural Networks and Learning Systems
+* ......
 
 Awards
 ======
