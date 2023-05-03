@@ -40,11 +40,7 @@ Web Conference 2023)**!
 
 Contact
 ======
-*Address*: N4-B2C-06, Cyber Security Lab, \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-School of Computer Science and Engineering, Nanyang Technological University\\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-50 Nanyang Avenue, Singapore 639798
+*Address*: City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong.
 
 *Email*: guowen.xu AT foxmail DOT com
 
