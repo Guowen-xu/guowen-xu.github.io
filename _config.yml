@@ -13,7 +13,7 @@ name                     : &name "Guowen Xu"
 description              : &description "Research Fellow at Nangyang Technolgoical University"
 url                      : https://guowen-xu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanzhou-yzhou/guowen-xu.github.io"
+repository               : "Guowen-xu/guowen-xu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Guowen Xu"
   avatar           : "yzhou.png"
-  bio              : "Postdoctoral Research Fellow at Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "Postdoc at City University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN"
