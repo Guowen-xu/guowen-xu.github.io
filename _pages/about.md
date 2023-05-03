@@ -46,6 +46,6 @@ School of Computer Science and Engineering, Nanyang Technological University\\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 50 Nanyang Avenue, Singapore 639798
 
-*Email*: guowen.xu AT ntu DOT edu DOT sg
+*Email*: guowen.xu AT foxmail DOT com
 
 
