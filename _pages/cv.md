@@ -20,8 +20,11 @@ Work Experience
 * Aug 2019 -- Aug 2020: Visiting PhD student
   * Singapore Management University, Supervisor: Prof. [Robert H Deng](http://www.mysmu.edu/faculty/robertdeng/)
 
-* Mar 2021 -- Present: Research Fellow
+* Mar 2021 -- May 2023: Research Fellow
   * Nanyang Technological University, Supervisor: Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/)
+ 
+ * May 2023 -- Present: Postdoc
+  * City University of Hong Kong, Supervisor: Prof. [Yuguang Fang](https://www.cs.cityu.edu.hk/~yugufang/)
 
 
 Publications
