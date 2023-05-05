@@ -12,6 +12,10 @@ Technical Program Committee:
 * [The ACM Web Conference 2023](https://www2023.thewebconf.org/), 2023
 * [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
 
+Editorial Board:
+======
+* Associate Editor: Journal of Surveillance Security and Safety (JSSS).
+
 Reviewer
 ======
 * IEEE Transactions on Information Forensics and Security
