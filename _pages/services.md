@@ -14,7 +14,7 @@ Technical Program Committee:
 
 Editorial Board:
 ======
-* Associate Editor: Journal of Surveillance Security and Safety (JSSS).
+* Journal of Surveillance Security and Safety (JSSS).
 
 Reviewer
 ======
