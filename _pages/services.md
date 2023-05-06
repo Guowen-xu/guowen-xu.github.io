@@ -14,7 +14,7 @@ Technical Program Committee:
 
 Editorial Board:
 ======
-* Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS).
+* [Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS).](https://jsssjournal.com/editorsYouth/index), 2023-2025
 
 Reviewer
 ======
