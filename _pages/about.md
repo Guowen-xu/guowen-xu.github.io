@@ -13,7 +13,7 @@ redirect_from:
 
 What's News
 ======
-- 2023.05.09 our paper titled "PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data" got the **Best Paper Awared (1/110)** of IEEE BigDataSecurity 2023!! Congratulations to my academic brother Dr. Haor Ren.!!
+- 2023.05.09 our paper titled "PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data" got the **Best Paper Award (1/110)** of IEEE BigDataSecurity 2023!! Congratulations to my academic brother Dr. Haor Ren.!!
 
 - 2023.04.25 One paper  accepted by **International Conference on Machine Learning(ICML)**!
 - 2023.03.21 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
