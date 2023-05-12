@@ -14,7 +14,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
  
-1. **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. **IEEE Transactions on Dependable and Secure Computing**, 2020. 
+1. **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. *IEEE Transactions on Dependable and Secure Computing*, 2020. 
 2. **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. **IEEE Transactions on Information Forensics and Security**, 2019.
 3. **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. **IEEE Transactions on Information Forensics and Security**,  2018.
 4. **<font face="Times New Roman" color=blue size=4> Guowen Xu</font>**, Xingshuo Han, Shengmin Xu, Tianwei Zhang, Hongwei Li, Xinyi Huang, Robert H Deng. Hercules: Boosting the Performance of Privacy-preserving Federated Learning. **IEEE Transactions on Dependable and Secure Computing**, 2022. 
