@@ -13,30 +13,30 @@ redirect_from:
 
 What's News
 ======
-- 2023.05.09 our paper titled "PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data" got the only **Best Paper Award** of IEEE BigDataSecurity 2023! Congratulations to my academic brother Dr. Hao Ren.
+- 2023.05.09. Our paper titled "PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data" got the only **Best Paper Award** of IEEE BigDataSecurity 2023! Congratulations to my academic brother Dr. Hao Ren.
 
-- 2023.04.25 One paper  accepted by **International Conference on Machine Learning(ICML)**!
-- 2023.03.21 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2023.02.28 One paper accepted by **IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)**!
-- 2023.01.21 Two papers accepted by **International Conference on Learning Representations(ICLR)**!
-- 2023.01.02 One paper accepted by **IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)**!
-- 2022.12.19 One paper accepted by **IEEE Transactions on Services Computing(TSC)**!
-- 2022.12.12 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
-- 2022.12.05 One paper accepted by **IEEE Transactions on Big Data(TBD)**!
-- 2022.12.02 One paper accepted by **IEEE International Conference on Computer Communications(INFOCOM 2023)**!
-- 2022.11.20 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
-- 2022.10.28 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2022.10.09 Dr. Guowen Xu was invited to join the program committee of TheWebConf2023 **(The ACM
+- 2023.04.25. One paper  accepted by **International Conference on Machine Learning(ICML)**!
+- 2023.03.21. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
+- 2023.02.28. One paper accepted by **IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)**!
+- 2023.01.21. Two papers accepted by **International Conference on Learning Representations(ICLR)**!
+- 2023.01.02. One paper accepted by **IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)**!
+- 2022.12.19. One paper accepted by **IEEE Transactions on Services Computing(TSC)**!
+- 2022.12.12. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
+- 2022.12.05. One paper accepted by **IEEE Transactions on Big Data(TBD)**!
+- 2022.12.02. One paper accepted by **IEEE International Conference on Computer Communications(INFOCOM 2023)**!
+- 2022.11.20. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
+- 2022.10.28. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
+- 2022.10.09. Dr. Guowen Xu was invited to join the program committee of TheWebConf2023 **(The ACM
 Web Conference 2023)**!
-- 2022.10.08 Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
-- 2022.09.15 One paper  accepted by the **Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022**! 
-- 2022.08.27 One paper  accepted by **ACM Conference on Computer and Communications Security (ACM CCS
+- 2022.10.08. Dr. Guowen Xu joined the **Distinguished Review Board for ACM Transactions on the Web**!
+- 2022.09.15. One paper  accepted by the **Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022**! 
+- 2022.08.27. One paper  accepted by **ACM Conference on Computer and Communications Security (ACM CCS
 2022)**!
-- 2022.08.22 One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
-- 2022.07.12 One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
-- 2022.07.04 One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
-- 2022.06.30 One paper accepted by **ACM Multimedia (MM) 2022**! 
-- 2022.03.01 One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
+- 2022.08.22. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
+- 2022.07.12. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
+- 2022.07.04. One paper accepted by **European Conference on Computer Vision (ECCV) 2022**!
+- 2022.06.30. One paper accepted by **ACM Multimedia (MM) 2022**! 
+- 2022.03.01. One paper accepted by **IEEE Transactions on Intelligent Transportation Systems(TITS)**!
 
 
 
