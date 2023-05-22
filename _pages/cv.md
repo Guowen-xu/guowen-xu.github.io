@@ -58,6 +58,7 @@ Serve as a reviewer for:
 
 Awards
 ======
+* IEEE BigDataSecurity Best paper Award, IEEE Computer Society, 2023
 * ECCV Online Registration Waiver Award, Committee of European Conference on Computer Vision, 2022
 * Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress, Chinese Association for Artificial Intelligence, 2021
 * Excellent Doctoral Dissertation Award of University of Electronic Science and Technology of China, 2021
