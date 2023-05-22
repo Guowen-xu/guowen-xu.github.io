@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **Best Paper Award of IEEE BigDataSecurity**, IEEE Computer Society, 2023.
+* **IEEE BigDataSecurity Best paper Award**, IEEE Computer Society, 2023.
 * **Distinguished Reviewer of ACM Transactions on the Web**, ACM, 2022-2024
 *  **ECCV Online Registration Waiver Award**, Committee of European Conference on Computer Vision, 2022
 *  **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**, Chinese Association for Artificial Intelligence, 2021
