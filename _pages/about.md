@@ -44,6 +44,6 @@ Contact
 ======
 *Address*: City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong.
 
-*Email*: guowen.xu AT foxmail DOT com
+*Email*: guowenxu@cityu.edu.hk
 
 
