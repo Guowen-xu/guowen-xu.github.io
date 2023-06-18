@@ -13,6 +13,7 @@ redirect_from:
 
 What's News
 ======
+- 2023.06.18. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2023.06.16. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
 - 2023.05.09. Our paper titled "PriFR: Privacy-preserving Large-scale File Retrieval System via Blockchain for Encrypted Cloud Data" got the only **Best Paper Award** of IEEE BigDataSecurity 2023! Congratulations to my academic brother Dr. Hao Ren.
 - 2023.04.25. One paper  accepted by **International Conference on Machine Learning(ICML)**!
