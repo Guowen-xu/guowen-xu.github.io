@@ -14,7 +14,8 @@ Technical Program Committee:
 
 Editorial Board:
 ======
-* [Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS).](https://jsssjournal.com/editorsYouth/index), 2023-2025
+*[Associate Editor of IET Information Security](https://www.hindawi.com/journals/ietis/editors/), 2023-present
+* [Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS)](https://jsssjournal.com/editorsYouth/index), 2023-2025
 
 Reviewer
 ======
