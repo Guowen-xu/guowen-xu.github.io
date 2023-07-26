@@ -14,7 +14,8 @@ redirect_from:
 What's News
 ======
 - 2023.07.11. One paper  accepted by **IEEE Symposium on
-Security and Privacy(S&P 2024)**!
+Security and Privacy(S&P 2024)**
+- 2023.06.27. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2023.06.26. Dr. Guowen Xu joined the Editoral Board of **IET Information Security** (CCF C) as an **Associate Editor**! 
 - 2023.06.18. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 - 2023.06.16. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
