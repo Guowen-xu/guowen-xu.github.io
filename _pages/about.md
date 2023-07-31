@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am currently a Postdoc at City University of Hong Kong under the supervision of Prof. [Yuguang Fang](https://www.cs.cityu.edu.hk/~yugufang/). I was a  Research  Fellow at Nanyang Technolgoical University from March 2021 to May 2023. I obtained my Ph.D. degree from University of Electronic Science and Technology of China, under the supervision of Prof. [Hongwei Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=-o6u2gwAAAAJ&view_op=list_works&sortby=pubdate). I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
+ I am currently a Postdoc at City University of Hong Kong under the supervision of Prof. [Yuguang Fang](https://www.cs.cityu.edu.hk/~yugufang/). I was a  Research  Fellow at Nanyang Technolgoical University from March 2021 to May 2023. I obtained my Ph.D. degree from University of Electronic Science and Technology of China, under the supervision of Prof. [Hongwei Li](https://scholar.google.com.hk/citations?hl=zh-CN&user=-o6u2gwAAAAJ&view_op=list_works&sortby=pubdate).  From August 2019 to August 2020,  I visited the [Secure Mobile Center](https://smc.smu.edu.sg/) in the School of Information Systems at School of Information Systems under the supervision of [Robert H.Deng](http://www.mysmu.edu/faculty/robertdeng/).  I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research intertests focus on different topics related to AI Security and Privacy.
 
 
 What's News
