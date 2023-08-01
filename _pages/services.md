@@ -10,7 +10,7 @@ Technical Program Committee:
 * [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023-2024
 * [The ACM Web Conference 2023](https://www2023.thewebconf.org/), 2023
 * [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
-* [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/)
+* [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/), 2024
 
 Editorial Board:
 ======
