@@ -15,7 +15,8 @@ Technical Program Committee:
 Editorial Board:
 ======
 * [Associate Editor of IET Information Security](https://www.hindawi.com/journals/ietis/editors/), 2023-present
-* [Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS)](https://jsssjournal.com/editorsYouth/index), 2023-2025
+* [Junior Editorial Board of Journal of Surveillance Security and Safety (JSSS)](https://jsssjournal.com/editorsYouth/index), 2023-present
+*  [Editorial Board of Intelligent Control and System Engineering Journal](https://ojs.acad-pub.com/index.php/ICSE/about/editorialTeam), 2023-present
 * [Distinguished Reviewer Board for ACM Transactions on the Web](https://dl.acm.org/journal/tweb), 2022-2024
 
 Reviewer
