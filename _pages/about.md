@@ -13,6 +13,7 @@ redirect_from:
 
 What's News
 ======
+- 2023.08.14. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!
 - 2023.08.03. Dr. Guowen Xu joined the Editoral Borad of **Intelligent Control and System Engineering Journal**!
 - 2023.07.11. One paper  accepted by **IEEE Symposium on Security and Privacy(S&P 2024)**!
 - 2023.06.27. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
