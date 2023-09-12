@@ -15,34 +15,33 @@ redirect_from:
 ======
 - <p align="justify"> &nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.08.26. One paper accepted by <b>IEEE TKDE!</b></font></p>
 - <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.08.14. One paper accepted by <b>IEEE TIFS</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.07.11. One paper  accepted by  <b>IEEE Symposium on Security and Privacy(S&P 2024)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.27. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.26. Dr. Guowen Xu joined the Editoral Board of  IET Information Security (CCF C) as an  <b>Associate Editor</b>!</font></p> 
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.18. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.16. One paper accepted by  <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.05.09. One paper  got the only  <b>Best Paper Award</b> of IEEE BigDataSecurity 2023!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.04.25. One paper  accepted by  <b>International Conference on Machine Learning(ICML)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.03.21. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.02.28. One paper accepted by  <b>IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.01.21. Two papers accepted by  <b>International Conference on Learning Representations(ICLR)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.01.02. One paper accepted by  <b>IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.19. One paper accepted by  <b>IEEE Transactions on Services Computing(TSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.12. One paper accepted by  <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.05. One paper accepted by  <b>IEEE Transactions on Big Data(TBD)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.02. One paper accepted by  <b>IEEE International Conference on Computer Communications(INFOCOM 2023)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.11.20. One paper accepted by  <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.28. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.09. Dr. Guowen Xu was invited to join the program committee of TheWebConf2023  <b>(The ACM
-Web Conference 2023)</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.07.11. One paper  accepted by  <b>IEEE S&P 2024</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.27. One paper  accepted by  <b>IEEE  TDSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.26. Dr. Guowen Xu joined the <b>Editoral Board of  IET Information Security</b>!</font></p> 
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.18. One paper  accepted by  <b>IEEE TDSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.06.16. One paper accepted by  <b>IEEE TIFS</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.05.09. One paper  got the <b>Best Paper Award</b> of IEEE BigDataSecurity 2023!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.04.25. One paper  accepted by  <b>ICML</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.03.21. One paper  accepted by  <b>IEEE TDSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.02.28. One paper accepted by  <b> CVPR</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.01.21. Two papers accepted by  <b>ICLR</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.01.02. One paper accepted by  <b>IEEE TCSVT</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.19. One paper accepted by  <b>IEEE  TSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.12. One paper accepted by  <b>IEEE TIFS</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.05. One paper accepted by  <b>IEEE TBD</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.02. One paper accepted by  <b>IEEE  INFOCOM 2023</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.11.20. One paper accepted by  <b>IEEE  TIFS</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.28. One paper  accepted by  <b>IEEE TDSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.09. Dr. Guowen Xu was invited to join the program committee of  <b>TheWebConf2023 </b>!</font></p>
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.08. Dr. Guowen Xu joined the  <b>Distinguished Review Board for ACM Transactions on the Web</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.09.15. One paper  accepted by the  <b>Thirty-Sixth Conference on Neural Information Processing Systems(NeurIPS) 2022</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.08.27. One paper  accepted by  <b>ACM Conference on Computer and Communications Security (ACM CCS
-2022)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.08.22. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.07.12. One paper accepted by  <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.07.04. One paper accepted by  <b>European Conference on Computer Vision (ECCV) 2022</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.06.30. One paper accepted by  <b>ACM Multimedia (MM) 2022</b>!</font></p> 
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.03.01. One paper accepted by  <b>IEEE Transactions on Intelligent Transportation Systems(TITS)</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.09.15. One paper  accepted by the  <b>NeurIPS 2022</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.08.27. One paper  accepted by  <b>ACM CCS
+2022</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.08.22. One paper  accepted by  <b>IEEE TDSC</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.07.12. One paper accepted by  <b>IEEE TIFS</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.07.04. One paper accepted by  <b>ECCV 2022</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.06.30. One paper accepted by  <b>ACM MM 2022</b>!</font></p> 
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.03.01. One paper accepted by  <b>IEEE TITS</b>!</font></p>
 
 
 
