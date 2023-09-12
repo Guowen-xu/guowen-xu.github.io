@@ -15,8 +15,8 @@ I prefer to work on applying cryptographic techniques in building secure protoco
 
   🔥 What's News
 ======
-- <p align="justify"> &nbsp;🎉🎉2023.08.26. One paper accepted by **IEEE Transactions on Knowledge and Data Engineering (TKDE)**!</p>
--   <p align="justify">&nbsp;🎉🎉2023.08.14. One paper accepted by **IEEE Transactions on Information Forensics & Security(TIFS)**!</p>
+- <p align="justify"> &nbsp;🎉🎉2023.08.26. One paper accepted by <b>IEEE Transactions on Knowledge and Data Engineering (TKDE)**!</b></p>
+-   <p align="justify">&nbsp;🎉🎉2023.08.14. One paper accepted by <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</p>
 -  &nbsp;🎉🎉2023.07.11. One paper  accepted by **IEEE Symposium on Security and Privacy(S&P 2024)**!
 -  &nbsp;🎉🎉2023.06.27. One paper  accepted by **IEEE Transactions on Dependable and Secure Computing (TDSC)**!
 -  &nbsp;🎉🎉2023.06.26. Dr. Guowen Xu joined the Editoral Board of **IET Information Security** (CCF C) as an **Associate Editor**! 
