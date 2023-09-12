@@ -14,7 +14,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
  
-1. <font face="Times New Roman" color=black size=4> **Guowen Xu**</font>, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE TDSC</font>, 2020.
+1. **<font face="Times New Roman" color=black size=4> Guowen Xu</font>**, Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE TDSC</font>, 2020.
 2. <div class="justify"><font face="Times New Roman" color=black size=4> Guowen Xu</font>, Xingshuo Han, Tianwei Zhang, Shengmin Xu, Jianting Ning, et al. SIMC 2.0: Improved Secure ML Inference Against Malicious Clients. <font face="Times New Roman" color=black size=4> IEEE TDSC</font>, 2023. </div>
 3. <div class="justify"><font face="Times New Roman" color=black size=4> Guowen Xu</font>, Xingshuo Han, Gelei Deng, Tianwei Zhang, Shengmin Xu, et al. VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder. <font face="Times New Roman" color=black size=4> IEEE TDSC</font>, 2023.</div>
 4.  <div class="justify"><font face="Times New Roman" color=black size=4> Guowen Xu</font>, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. <font face="Times New Roman" color=black size=4> IEEE TIFS</font>, 2019.</div>
