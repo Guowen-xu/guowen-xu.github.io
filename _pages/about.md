@@ -13,7 +13,7 @@ redirect_from:
 
   🔥 What's News
 ======
-- <p align="justify"> &nbsp;🎉🎉2023.08.26. One paper accepted by <b>IEEE Transactions on Knowledge and Data Engineering (TKDE)!</b></p>
+- <p align="justify"> &nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2023.08.26. One paper accepted by <b>IEEE Transactions on Knowledge and Data Engineering (TKDE)!</b></font></p>
 - <p align="justify">&nbsp;🎉🎉2023.08.14. One paper accepted by <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</p>
 -  <p align="justify">&nbsp;🎉🎉2023.07.11. One paper  accepted by  <b>IEEE Symposium on Security and Privacy(S&P 2024)</b>!</p>
 -  <p align="justify">&nbsp;🎉🎉2023.06.27. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</p>
