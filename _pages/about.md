@@ -32,8 +32,8 @@ redirect_from:
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.12.02. One paper accepted by  <b>IEEE  INFOCOM 2023</b>!</font></p>
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.11.20. One paper accepted by  <b>IEEE  TIFS</b>!</font></p>
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.28. One paper  accepted by  <b>IEEE TDSC</b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.09. Dr. Guowen Xu was invited to join the program committee of  <b>TheWebConf2023 </b>!</font></p>
--  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.08. Dr. Guowen Xu joined the  <b>Distinguished Review Board for ACM Transactions on the Web</b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.09. Dr. Guowen Xu joined the program committee of  <b>TheWebConf2023 </b>!</font></p>
+-  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.10.08. Dr. Guowen Xu joined the  <b>Distinguished Review Board for ACM TWEB</b>!</font></p>
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.09.15. One paper  accepted by the  <b>NeurIPS 2022</b>!</font></p>
 -  <p align="justify">&nbsp;🎉🎉<font face="Times New Roman" color=black size=4>2022.08.27. One paper  accepted by  <b>ACM CCS
 2022</b>!</font></p>
