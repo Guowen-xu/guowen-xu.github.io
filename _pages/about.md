@@ -15,8 +15,8 @@ redirect_from:
 ======
 - <p align="justify"> &nbsp;🎉🎉2023.08.26. One paper accepted by <b>IEEE Transactions on Knowledge and Data Engineering (TKDE)!</b></p>
 - <p align="justify">&nbsp;🎉🎉2023.08.14. One paper accepted by <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</p>
--  <p align="justify">&nbsp;🎉🎉2023.07.11. One paper  accepted by  <b>IEEE Symposium on Security and Privacy(S&P 2024)**!</p>
--  <p align="justify">&nbsp;🎉🎉2023.06.27. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)**!</p>
+-  <p align="justify">&nbsp;🎉🎉2023.07.11. One paper  accepted by  <b>IEEE Symposium on Security and Privacy(S&P 2024)</b>!</p>
+-  <p align="justify">&nbsp;🎉🎉2023.06.27. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</p>
 -  <p align="justify">&nbsp;🎉🎉2023.06.26. Dr. Guowen Xu joined the Editoral Board of  IET Information Security (CCF C) as an  <b>Associate Editor</b>!</p> 
 -  <p align="justify">&nbsp;🎉🎉2023.06.18. One paper  accepted by  <b>IEEE Transactions on Dependable and Secure Computing (TDSC)</b>!</p>
 -  <p align="justify">&nbsp;🎉🎉2023.06.16. One paper accepted by  <b>IEEE Transactions on Information Forensics & Security(TIFS)</b>!</p>
