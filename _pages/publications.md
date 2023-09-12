@@ -12,8 +12,6 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
- 
 1. <p align="justify"> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,  Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing</font>, 2020.</p>
 2. <p align="justify"> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xingshuo Han, Tianwei Zhang, Shengmin Xu, Jianting Ning, et al. SIMC 2.0: Improved Secure ML Inference Against Malicious Clients. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing</font>, 2023.</p>
 3. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xingshuo Han, Gelei Deng, Tianwei Zhang, Shengmin Xu, et al. VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing</font>, 2023.</p>
