@@ -8,7 +8,7 @@ author_profile: true
 
 You can find my articles on my [Google Scholar](https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN) or [DBLP](https://dblp.org/pid/87/10142.html).
 
-# 📝 Publications (*Corresponding author; CCF A papers: <u><b><font face="Times New Roman" color=read size=4> 28 </font></b></u>; Google citations:<u><b><font face="Times New Roman" color=read size=4> 2300+</font></b></u>) 
+# 📝 Publications (<u><b><font face="Times New Roman" color=read size=4> *Corresponding author</font></b></u>; <u><b><font face="Times New Roman" color=read size=4>  CCF A papers: 28 </font></b></u>; <u><b><font face="Times New Roman" color=read size=4> Google citations: 2300+</font></b></u>) 
 ======
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 1. <p align="justify"> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,  Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing</font>, 2020.</p>
