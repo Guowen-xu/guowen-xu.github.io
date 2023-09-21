@@ -47,8 +47,9 @@ redirect_from:
 
 Contact
 ======
-*Address*: City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong.
+<p align="justify"> <font face="Times New Roman" color=black size=4> <b>Address: City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong.</b></font></p>
 
-*Email*: guowenxu@cityu.edu.hk
+<p align="justify"> <font face="Times New Roman" color=black size=4> <b>Email: guowenxu@cityu.edu.hk</b></font></p>
+
 
 
