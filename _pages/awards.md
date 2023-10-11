@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* **Stanford World's Top 2% Scientists**, Elsevier, 2023
 * **IEEE BigDataSecurity Best paper Award**, IEEE Computer Society, 2023.
 * **Distinguished Reviewer of ACM Transactions on the Web**, ACM, 2022-2024
 * **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**, CAAI, 2021
