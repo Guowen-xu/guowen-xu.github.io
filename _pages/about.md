@@ -15,6 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
+- <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.11. Dr. Guowen Xu was selected into the 2023 Stanford World's Top 2% Scientists!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.09.28. One paper accepted by <b>IEEE TSC!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.08.26. One paper accepted by <b>IEEE TKDE!</b></font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.08.14. One paper accepted by <b>IEEE TIFS</b>!</font></p>
