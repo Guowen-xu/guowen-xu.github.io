@@ -15,7 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
-- <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.20. One paper accepted by <b> International Conference on Field-Programmable Technology (FPT)!</b></font></p>
+- <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.20. One paper accepted by <b>  Field-Programmable Technology (FPT) conference 2023!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.11. Dr. Guowen Xu was selected into the 2023 <b>Stanford World's Top 2% Scientists!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.09.28. One paper accepted by <b>IEEE TSC!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.08.26. One paper accepted by <b>IEEE TKDE!</b></font></p>
