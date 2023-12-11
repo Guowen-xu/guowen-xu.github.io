@@ -13,16 +13,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 2024 
-1.<p align="justify">[S&P 2024]Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou,  Yuan Xu, Han Qiu, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, and Tianwei Zhang. Backdooring Multimodal Learning. <font face="Times New Roman" color=black size=4> IEEE Symposium on Security and Privacy(S&P)</font>, 2024.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.<p align="justify">[S&P 2024]Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou,  Yuan Xu, Han Qiu, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, and Tianwei Zhang. Backdooring Multimodal Learning. <font face="Times New Roman" color=black size=4> IEEE Symposium on Security and Privacy(S&P)</font>, 2024.<\p>
+
 11. <p align="justify"> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,  Hongwei Li, Yun Zhang, Shengmin Xu, Jianting Ning, Robert H. Deng. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020. (<font face="Times New Roman" color=red size=4> CCF A</font>)
 12. <p align="justify"> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xingshuo Han, Tianwei Zhang, Shengmin Xu, Jianting Ning, et al. SIMC 2.0: Improved Secure ML Inference Against Malicious Clients. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2023. (<font face="Times New Roman" color=red size=4> CCF A</font>)
 13. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xingshuo Han, Gelei Deng, Tianwei Zhang, et al. VerifyML: Obliviously Checking Model Fairness Resilient to Malicious Model Holder. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
