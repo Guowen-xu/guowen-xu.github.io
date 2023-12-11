@@ -97,7 +97,6 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ASIACCS'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Robert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> ACM ASIA Conference on Computer and Communications Security(ASIACCS)</font>, 2020. 
 
 * <p align="justify"><b><font face="Times New Roman" color=black size=4> [ICPADS'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin (Sherman) Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. <font face="Times New Roman" color=black size=4>  IEEE International Conference on Parallel and Distributed Systems(ICPADS)</font>, 2020, <font face="Times New Roman" color=red size=4> Best Paper Award</font></p>
-)
 
 * <p align="justify"><b><font face="Times New Roman" color=black size=4> [TCC'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>, 2020.
 
