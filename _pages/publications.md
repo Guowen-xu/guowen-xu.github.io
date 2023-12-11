@@ -115,7 +115,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [CCS'18]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Rongxing Lu. Poster: Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems.  <font face="Times New Roman" color=black size=4>  ACM Conference on Computer and Communications Security(CCS)</font>, 2018.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
-* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [Comput Secur'17]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> Computers & Security</font>, 2017.(<font face="Times New Roman" color=red size=4> CCF B</font>
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [Comput Secur'17]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> Computers & Security</font>, 2017.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
 
 
