@@ -82,7 +82,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"><b><font face="Times New Roman" color=black size=4> [TDSC'21]</font></b> Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. A Secure EMR Sharing System with Tamper Resistance and Expressive Access Control. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
-* <p align="justify">Shengmin Xu, Jianting Ning,  Jinhua Ma, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiaming Yuan, Robert H Deng.  Revocable Policy-Based Chameleon Hash.  <font face="Times New Roman" color=black size=4> Proceedings of European Symposium on Research in Computer Security(ESORICS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ESORICS'21]</font></b> Shengmin Xu, Jianting Ning,  Jinhua Ma, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiaming Yuan, Robert H Deng.  Revocable Policy-Based Chameleon Hash.  <font face="Times New Roman" color=black size=4> Proceedings of European Symposium on Research in Computer Security(ESORICS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
 
 
