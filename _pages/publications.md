@@ -68,6 +68,22 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TSC'22]</font></b> Jingwei Wang, Xinchun Yin, Jianting Ning, Shengmin Xu, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, and Xinyi Huang. Secure Updatable Storage Access Control System for EHRs in the Cloud. <font face="Times New Roman" color=black size=4> IEEE Transactions on Services Computing(TSC)</font>, 2022.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+# 2021
+
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [INFOCOM'21]</font></b> Haoran Yuan, Xiaofeng Chen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Jianting Ning, Joseph Liu, Robert H Deng.  Efficient and Verifiable Proof of Replication with Fast Fault Localization.  <font face="Times New Roman" color=black size=4> IEEE Conference on Computer Communications(INFOCOM)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TITS'21]</font></b>  Jianfei Sun,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Tianwei Zhang, et al. Secure Data Sharing with Flexible Cross-domain Authorization in Autonomous Vehicle Systems. <font face="Times New Roman" color=black size=4> IEEE Transactions on Intelligent Transportation Systems(TITS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>) 
+
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TCC'21]</font></b> Jianfei Sun,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Tianwei Zhang, et al. Share your data carefree: An efficient, scalable and privacy-preserving data sharing service in cloud computing. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>. 2021.
+
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'21]</font></b> Xiaoyuan Liu, Hongwei Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. Privacy-Enhanced Federated Learning against Poisoning Adversaries. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'21]</font></b> Shengmin Xu, Jianting Ning, Xinyi Huang, Yingjiu Li,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>. Untouchable Once Revoking: A Practical and Secure Dynamic EHR Sharing System via Cloud. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+* <p align="justify"><b><font face="Times New Roman" color=black size=4> [TDSC'21]</font></b> Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. A Secure EMR Sharing System with Tamper Resistance and Expressive Access Control. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+* <p align="justify">Shengmin Xu, Jianting Ning,  Jinhua Ma, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiaming Yuan, Robert H Deng.  Revocable Policy-Based Chameleon Hash.  <font face="Times New Roman" color=black size=4> Proceedings of European Symposium on Research in Computer Security(ESORICS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+
 
 
 
@@ -79,21 +95,22 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 ) 
 18. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Rongxing Lu. Poster: Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems.  <font face="Times New Roman" color=black size=4>  ACM Conference on Computer and Communications Security(CCS)</font>, 2018.(<font face="Times New Roman" color=red size=4> CCF A</font>)
- 
+
+ # 2020
 
  
-23. <p align="justify">Haoran Yuan, Xiaofeng Chen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Jianting Ning, Joseph Liu, Robert H Deng.  Efficient and Verifiable Proof of Replication with Fast Fault Localization.  <font face="Times New Roman" color=black size=4> IEEE Conference on Computer Communications(INFOCOM)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
-24. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks.<font face="Times New Roman" color=black size=4> ACM Annual Computer Security Applications Conference(ACSAC) </font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+
+24. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, Jianting Ning, Robert H. Deng. Secure and Verifiable Inference in Deep Neural Networks.<font face="Times New Roman" color=black size=4> ACM Annual Computer Security Applications Conference(ACSAC) </font>, 2020.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 25. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> Computers & Security</font>, 2017.(<font face="Times New Roman" color=red size=4> CCF B</font>
 
 
 
-29. <p align="justify">Jianfei Sun,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Tianwei Zhang, et al. Secure Data Sharing with Flexible Cross-domain Authorization in Autonomous Vehicle Systems. <font face="Times New Roman" color=black size=4> IEEE Transactions on Intelligent Transportation Systems(TITS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>) 
+
 30. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Robert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> ACM ASIA Conference on Computer and Communications Security(ASIACCS)</font>, 2020. (<font face="Times New Roman" color=red size=4> CCF C</font>) 
 31. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>, 2019.(<font face="Times New Roman" color=red size=4> CCF C</font>) 
 32. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin (Sherman) Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. <font face="Times New Roman" color=black size=4>  IEEE International Conference on Parallel and Distributed Systems(ICPADS)</font>, 2020, <font face="Times New Roman" color=red size=4> Best Paper Award</font></p>
 )
-23. <p align="justify">Jianfei Sun,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Tianwei Zhang, et al. Share your data carefree: An efficient, scalable and privacy-preserving data sharing service in cloud computing. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>. 2021.(<font face="Times New Roman" color=red size=4> CCF C</font>) 
+
 24. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> IEEE Transactions on Vehicular Technology(TVT)</font>, 2019.</p>
 25. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. <font face="Times New Roman" color=black size=4> IEEE Communications Magazine</font>, 2019.</p>
 
@@ -103,19 +120,17 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
 
-5.  <p align="justify">Xiaoyuan Liu, Hongwei Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. Privacy-Enhanced Federated Learning against Poisoning Adversaries. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
-6. 
   
 
-9. <p align="justify">Shengmin Xu, Jianting Ning, Xinyi Huang, Yingjiu Li,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>. Untouchable Once Revoking: A Practical and Secure Dynamic EHR Sharing System via Cloud. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
-13. <p align="justify">Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. A Secure EMR Sharing System with Tamper Resistance and Expressive Access Control. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+
 14. <p align="justify">Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Computing. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
 
-19. <p align="justify">Shengmin Xu, Jianting Ning,  Jinhua Ma, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiaming Yuan, Robert H Deng.  Revocable Policy-Based Chameleon Hash.  <font face="Times New Roman" color=black size=4> Proceedings of European Symposium on Research in Computer Security(ESORICS)</font>, 2021.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+
 
   
  
