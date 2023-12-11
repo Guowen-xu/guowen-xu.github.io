@@ -87,10 +87,10 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 # 2020
 
 
-* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TDSC'21]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,  Hongwei Li, Yun Zhang, Shengmin Xu, et al. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020. (<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TDSC'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,  Hongwei Li, Yun Zhang, Shengmin Xu, et al. Privacy-preserving Federated Deep Learning with Irregular Users. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020. (<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
-*  <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TIFS'21]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2020.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+*  <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TIFS'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Sen Liu, Kan Yang, Xiaodong Lin. VerifyNet: Secure and Verifiable Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2020.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 *  <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ACSAC'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Jianfei Sun, Shengmin Xu, et al. Secure and Verifiable Inference in Deep Neural Networks.<font face="Times New Roman" color=black size=4> ACM Annual Computer Security Applications Conference(ACSAC) </font>, 2020.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
