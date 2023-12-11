@@ -96,35 +96,36 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ASIACCS'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Shengmin Xu, Hao Ren, Kan Yang, Yinghui Zhang, Jianfei Sun, Robert H. Deng. Catch You If You Deceive Me: Verifiable and Privacy-aware Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> ACM ASIA Conference on Computer and Communications Security(ASIACCS)</font>, 2020. 
 
-* <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin (Sherman) Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. <font face="Times New Roman" color=black size=4>  IEEE International Conference on Parallel and Distributed Systems(ICPADS)</font>, 2020, <font face="Times New Roman" color=red size=4> Best Paper Award</font></p>
+* <p align="justify"><b><font face="Times New Roman" color=black size=4> [ICPADS'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Yuan Zhang, Xiaodong Lin, Robert H Deng, Xuemin (Sherman) Shen. A Deep Learning Framework Supporting Model Ownership Protection and Traitor Tracing. <font face="Times New Roman" color=black size=4>  IEEE International Conference on Parallel and Distributed Systems(ICPADS)</font>, 2020, <font face="Times New Roman" color=red size=4> Best Paper Award</font></p>
 )
 
-* <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>, 2020.
+* <p align="justify"><b><font face="Times New Roman" color=black size=4> [TCC'20]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Xiaodong Lin, Xuemin (Sherman) Shen. DNA Similarity Search with Access Control over Encrypted Cloud Data. <font face="Times New Roman" color=black size=4> IEEE Transactions on Cloud Computing(TCC)</font>, 2020.
 
-* <p align="justify">Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Computing. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify"><b><font face="Times New Roman" color=black size=4> [TDSC'20]</font></b> Shengmin Xu, Jianting Ning, Yingjiu Li, Yinghui zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. Match in My Way: Fine-Grained Bilateral Access Control for Secure Cloud-Fog Computing. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2020.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 # 2019 and before
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TIFS'19]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Yuanshun Dai, Kan Yang, Xiaodong Lin. Enabling Efficient and Ge-ometric Range Query with Access Control over Encrypted Spatial Data. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>,  2019.(<font face="Times New Roman" color=red size=4> CCF A</font>) 
 
-) 
-18. <p align="justify"> <b><font face="Times New Roman" color=black size=4> [CCS'18]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Rongxing Lu. Poster: Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems.  <font face="Times New Roman" color=black size=4>  ACM Conference on Computer and Communications Security(CCS)</font>, 2018.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [Commun Mag'19]</font></b>  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. <font face="Times New Roman" color=black size=4> IEEE Communications Magazine</font>, 2019.</p>
+
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TVT'19]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> IEEE Transactions on Vehicular Technology(TVT)</font>, 2019.</p>
 
 
  
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [CCS'18]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Rongxing Lu. Poster: Practical and Privacy-Aware Truth Discovery in Mobile Crowd Sensing Systems.  <font face="Times New Roman" color=black size=4>  ACM Conference on Computer and Communications Security(CCS)</font>, 2018.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
-25. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> Computers & Security</font>, 2017.(<font face="Times New Roman" color=red size=4> CCF B</font>
-
-
-
-
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [Comput Secur'17]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chen Tan, Dongxiao Liu, Kan Yang. Achieving Efficient and Priva-cy-Preserving Truth Discovery in Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> Computers & Security</font>, 2017.(<font face="Times New Roman" color=red size=4> CCF B</font>
 
 
 
 
-24. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Sen Liu, Mi Wen, Rongxing Lu. Efficient and Privacy-preserving Truth Discovery in Mobile Crowd Sensing Systems. <font face="Times New Roman" color=black size=4> IEEE Transactions on Vehicular Technology(TVT)</font>, 2019.</p>
-25. <p align="justify"><u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Hao Ren, Kan Yang，Robert H. Deng. Data Privacy and Security in Deep Learning: Attacks, Solutions and Opportunities. <font face="Times New Roman" color=black size=4> IEEE Communications Magazine</font>, 2019.</p>
+
+
+
+
+
 
 
 
