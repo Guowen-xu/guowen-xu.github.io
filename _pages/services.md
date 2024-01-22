@@ -11,7 +11,7 @@ Technical Program Committee:
 * [The ACM Web Conference 2023 (WWW)](https://www2023.thewebconf.org/), 2023
 * [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
 * [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/), 2024
-* Area Chair of International Conference on Machine Learning  (ICML), 2024
+* [Area Chair of International Conference on Machine Learning (ICML)](https://icml.cc/), 2024
 
 Editorial Board:
 ======
