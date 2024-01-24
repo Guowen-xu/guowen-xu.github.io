@@ -15,7 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
-- <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.01.22. Dr. Guowen Xu is invited to serve as the  <b>Area Chair of ICML 2024</b>!</font></p>
+- <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.01.22. Dr. Guowen Xu was invited to serve as the  <b>Area Chair of ICML 2024</b>!</font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.12.01. One paper accepted by  <b>IEEE  INFOCOM 2024</b>!</font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.20. One paper accepted by <b>  Field-Programmable Technology (FPT) conference 2023!</b></font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.11. Dr. Guowen Xu was selected into the 2023 <b>Stanford World's Top 2% Scientists!</b></font></p>
