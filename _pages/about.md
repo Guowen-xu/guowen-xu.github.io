@@ -15,6 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
+- <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.01.29. One paper accepted by  <b>International Conference on Robotics and Automation (ICRA 2024) </b>!</font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.01.22. Dr. Guowen Xu was invited to serve as the  <b>Area Chair of ICML 2024</b>!</font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.12.01. One paper accepted by  <b>IEEE  INFOCOM 2024</b>!</font></p>
 - <p align="justify"> &nbsp;🎉<font face="Times New Roman" color=black size=4>2023.10.20. One paper accepted by <b>  Field-Programmable Technology (FPT) conference 2023!</b></font></p>
