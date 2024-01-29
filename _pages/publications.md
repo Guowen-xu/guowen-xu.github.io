@@ -18,6 +18,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [INFOCOM'24]</font></b> Xinyuan Qian, Hongwei Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Haoyong Wang, Tianwei Zhang, Xianhao Chen, Yuguang Fang. Privacy-Preserving Data Evaluation via Functional Encryption, Revisited.  <font face="Times New Roman" color=black size=4> IEEE Conference on Computer Communications(INFOCOM)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICRA'24]</font></b> Yuang Zhang, Haonan An, Zhengru Fang <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yuan Zhou, Xianhao Chen, Yuguang Fang. SmartCooper: Vehicle Collaborative Perception under Adaptive Fusion and Judger Mechanism.  <font face="Times New Roman" color=black size=4> IEEE International Conference on Robotics and Automation (ICRA)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+
 # 2023 
 
 *  <p align="justify">   <b><font face="Times New Roman" color=black size=4> [TDSC'23]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xingshuo Han, Tianwei Zhang, Shengmin Xu, Jianting Ning, et al. SIMC 2.0: Improved Secure ML Inference Against Malicious Clients. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2023. (<font face="Times New Roman" color=red size=4> CCF A</font>)
