@@ -15,6 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
+-<p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.02.24. One paper accepted by  <b>IEEE Transactions on Mobile Computing (TMC) </b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.02.08. Dr. Guowen Xu was invited to serve as the  <b>program committee  member of the 40th Annual Computer Security Applications Conference (ACSAC 2024)</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.02.02. Dr. Guowen Xu was invited to serve as the  <b> Consulting Associate Editor of IEEE Open Journal of Signal Processing </b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.01.29. One paper accepted by  <b>International Conference on Robotics and Automation (ICRA 2024) </b>!</font></p>
