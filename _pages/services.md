@@ -18,9 +18,9 @@ Editorial Board:
 ======
 * [Associate Editor of IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
 * [Consulting Associate Editor of IEEE Open Journal of Signal Processing (OJSP)](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/advisoryeditorial-board), 2024-present
-* [Associate Editor of International Journal of Information Security and Privacy (IJISP) (CCF C)](https://www.igi-global.com/journals/open-access/reviewers/international-journal-information-security-privacy/1096), 2024-present
+* [Associate Editor of International Journal of Information Security and Privacy (IJISP)](https://www.igi-global.com/journals/open-access/reviewers/international-journal-information-security-privacy/1096), 2024-present
 * [Senior Reviewer Board for IEEE RAS Young Reviewers Program](https://www.ieee-ras.org/students/young-reviewers-program), 2024-present
-* [Associate Editor of IET Information Security (CCF C)](https://www.hindawi.com/journals/ietis/editors/), 2023-present
+* [Associate Editor of IET Information Security](https://www.hindawi.com/journals/ietis/editors/), 2023-present
 * [Distinguished Reviewer Board for ACM Transactions on the Web](https://dl.acm.org/journal/tweb), 2022-present
 
 Reviewer
