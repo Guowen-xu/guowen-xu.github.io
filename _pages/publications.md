@@ -20,6 +20,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TMC'24]</font></b> Cong Wu, Hangcheng Cao, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. It’s All in the Touch: Authenticating Users with HOST Gestures on Multi-Touch Screen Devices.  <font face="Times New Roman" color=black size=4> IEEE Transactions on Mobile Computing (TMC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [DSN'24]</font></b> Xiaoxuan Lou, Kangjie Chen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Han Qiu, Shangwei Guo, Tianwei Zhang. Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels.  <font face="Times New Roman" color=black size=4> the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICRA'24]</font></b> Yuang Zhang, Haonan An, Zhengru Fang,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yuan Zhou, Xianhao Chen, Yuguang Fang. SmartCooper: Vehicle Collaborative Perception under Adaptive Fusion and Judger Mechanism.  <font face="Times New Roman" color=black size=4> IEEE International Conference on Robotics and Automation (ICRA)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
 # 2023 
