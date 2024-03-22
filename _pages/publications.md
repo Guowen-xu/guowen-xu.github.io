@@ -13,7 +13,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 2024 
-* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [S&P'24]</font></b> Jianfei Sun, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Honggwei Li, Tianwei Zhang, Cong Wu,  Xuehuan Yang,  Robert H. Deng. Sanitizable Cross-domain Access Control with Policy-driven Dynamic Authorization. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'24]</font></b> Jianfei Sun, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Honggwei Li, Tianwei Zhang, Cong Wu,  Xuehuan Yang,  Robert H. Deng. Sanitizable Cross-domain Access Control with Policy-driven Dynamic Authorization. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [DSN'24]</font></b> Xiaoxuan Lou, Kangjie Chen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Han Qiu, Shangwei Guo, Tianwei Zhang. Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels.  <font face="Times New Roman" color=black size=4> The 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
