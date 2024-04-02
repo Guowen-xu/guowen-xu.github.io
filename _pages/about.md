@@ -15,7 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
--    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.02. One paper  accepted by  <b>IEEE  TDSC</b>!</font></p>
+-    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.02. Two papers  accepted by  <b>IEEE  TDSC</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.25. One paper accepted by <b>IEEE TIFS</b>!</font></p> 
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.21.  One paper accepted by  <b>the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.07.  Dr. Guowen Xu was invited to serve as the  <b>Associate Editor of IEEE Transactions on Network and Service Management</b>!</font></p>
