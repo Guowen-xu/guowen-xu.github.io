@@ -15,6 +15,7 @@ redirect_from:
 
   🔥 What's News
 ======
+-    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.25. One paper was  accepted by <b>IEEE European Symposium on Security and Privacy (EuroS&P 2024)</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.07.  Dr. Guowen Xu was invited to serve as the  <b>Associate Editor of IEEE Transactions on Information Forensics and Security</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.02. Two papers were accepted by  <b>IEEE  TDSC</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.03.25. One paper was  accepted by <b>IEEE TIFS</b>!</font></p> 
