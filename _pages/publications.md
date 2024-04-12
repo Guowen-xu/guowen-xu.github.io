@@ -40,7 +40,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICRA'24]</font></b> Yuang Zhang, Haonan An, Zhengru Fang,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yuan Zhou, Xianhao Chen, Yuguang Fang. SmartCooper: Vehicle Collaborative Perception under Adaptive Fusion and Judger Mechanism.  <font face="Times New Roman" color=black size=4> IEEE International Conference on Robotics and Automation (ICRA)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
-* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICDCS'24]</font></b> Xinyuan Qian, Hongwei Li, Haoyong Wang,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Shengmin Xu, Yuguang Fang. SecSCS: A User-Centric Secure Smart Camera System Based on Blockchain.  <font face="Times New Roman" color=black size=4> The 44th IEEE International Conference on Distributed Computing Systems (ICDCS)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICDCS'24]</font></b> Xinyuan Qian, Hongwei Li, Haoyong Wang,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Shengmin Xu, Ju Ren. SecSCS: A User-Centric Secure Smart Camera System Based on Blockchain.  <font face="Times New Roman" color=black size=4> The 44th IEEE International Conference on Distributed Computing Systems (ICDCS)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
 
 
