@@ -20,6 +20,7 @@ Editorial Board:
 * [Associate Editor of Pattern Recognition (CCF B, 中科院大类一区)](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
 * [Editor of Information Fusion (中科院大类一区, IF: 18.6)](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Network and Service Management((中科院大类二区)](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
+* [Associate Editor of IEEE Transactions On Human Machine Systems (CCF B)](https://www.ieeesmc.org/publications/transactions-on-human-machine-systems/associate-editors/), 2024-present
 * [Lead Guest Editor of ACM Transactions on Autonomous and Adaptive Systems (CCF B)](https://dl.acm.org/journal/taas/calls-for-papers), 2024-present
 * [Consulting Associate Editor of IEEE Open Journal of Signal Processing (OJSP)](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/advisoryeditorial-board), 2024-present
 * [Associate Editor of International Journal of Information Security and Privacy (CCF C)](https://www.igi-global.com/journals/open-access/reviewers/international-journal-information-security-privacy/1096), 2024-present
