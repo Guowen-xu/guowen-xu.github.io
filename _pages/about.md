@@ -18,7 +18,7 @@ redirect_from:
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.05.22.  Dr. Guowen Xu was invited to join the <b>Editor borad of Information Processing& Management ( CCF B, IF: 8.6)</b>!</font></p> 
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.05.20.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of  ACM Transactions on Sensor Networks </b>!</font></p> 
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.20.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of  IEEE Transactions On Human Machine Systems</b>!</font></p> 
--  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.16.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of  Pattern Recognition( CCF B, IF:8)</b>!</font></p>
+-  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.20.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of  Pattern Recognition( CCF B, IF:8)</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.16.  Dr. Guowen Xu was invited to join the <b>Editor borad of Information Fusion(IF: 18.6)</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.13. One paper was  accepted by <b>the 44th IEEE International Conference on Distributed Computing Systems (ICDCS 2024)</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.05. One paper was  accepted by <b>IEEE European Symposium on Security and Privacy (EuroS&P 2024)</b>!</font></p>
