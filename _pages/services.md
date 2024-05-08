@@ -6,6 +6,7 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
+* [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS)](https://neurips.cc/), 2024
 * [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), 2024
 * [Area Chair of International Conference on Machine Learning (ICML)](https://icml.cc/), 2024
 * [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/), 2024
