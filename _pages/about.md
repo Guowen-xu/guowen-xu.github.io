@@ -15,7 +15,8 @@ redirect_from:
 
   🔥 What's News
 ====== 
--    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.05.09.  Dr. Guowen Xu was invited to join the <b>program committee of NeurIPS 2024 </b>!</font></p> 
+-  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.05.25.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of   ACM Digital Threats: Research and Practice </b>!</font></p>
+-      <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.05.09.  Dr. Guowen Xu was invited to join the <b>program committee of NeurIPS 2024 </b>!</font></p> 
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.26.  One paper was accepted by <b>IEEE TSC</b>!</font></p> 
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.20.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of  Pattern Recognition( CCF B, IF:8)</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.04.16.  Dr. Guowen Xu was invited to serve as the <b> Area Editor of Information Fusion(IF: 18.6)</b>!</font></p>
