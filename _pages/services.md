@@ -18,7 +18,8 @@ Technical Program Committee:
 Editorial Board:
 ======
 * [Associate Editor of IEEE Transactions on Information Forensics and Security (CCF A, 中科院大类一区)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
-* [Associate Editor of Pattern Recognition (CCF B, 中科院大类一区)](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
+*. [Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology(CCF B, 中科院大类一区)](https://ieee-cas.org/publication/tcsvt), 2024-present
+*  [Associate Editor of Pattern Recognition (CCF B, 中科院大类一区)](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
 * [Area Editor of Information Fusion (中科院大类一区, IF: 18.6)](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Network and Service Management(中科院大类二区)](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
 * [Associate Editor of Computers & Security (CCF B, 中科院大类二区)](https://www.sciencedirect.com/journal/computers-and-security/about/editorial-board), 2024-present
