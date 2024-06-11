@@ -11,7 +11,7 @@ Technical Program Committee:
 * [Area Chair of International Conference on Machine Learning (ICML)](https://icml.cc/), 2024
 * [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/), 2024
 * [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
-* [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023-2024
+* [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023-2025
 * [The ACM Web Conference 2023 (WWW)](https://www2023.thewebconf.org/), 2023
 * [International Conference on Knowledge Science, Engineering and Management (KSEM)](https://ksem22.smart-conf.net/committee.html), 2022.
   
