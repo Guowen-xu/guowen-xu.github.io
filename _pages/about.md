@@ -15,6 +15,7 @@ redirect_from:
 
   🔥 What's News
 ====== 
+-  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.06.12.  Dr. Guowen Xu was invited to join the <b>program committee of AAAI 2025 </b>!</font></p>  
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.06.06.  Dr. Guowen Xu was invited to serve as the <b>Associate Editor of   IEEE Transactions on Circuits and Systems for Video Technology</b>!</font></p>
 -    <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.06.05. One paper was accepted by <b>IEEE TIFS</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.06.01.  我被邀请担任<b>《信息安全学报》和《Cybersecurity》的青年编委</b>!</font></p>
