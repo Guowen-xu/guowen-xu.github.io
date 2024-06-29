@@ -26,11 +26,11 @@ Editorial Board:
 * [Associate Editor of ACM Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
 * [Lead Guest Editor of ACM Transactions on Autonomous and Adaptive Systems (CCF B)](https://dl.acm.org/journal/taas/calls-for-papers), 2024-present
 * [Consulting Associate Editor of IEEE Open Journal of Signal Processing (OJSP)](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/advisoryeditorial-board), 2024-present
-* [Associate Editor of International Journal of Information Security and Privacy (CCF C)](https://www.igi-global.com/journals/open-access/reviewers/international-journal-information-security-privacy/1096), 2024-present
+
 * [Youth Editorial Board of Cybersecurity](https://cybersecurity.springeropen.com), 2024-present
 * [信息安全学报青年编委](http://jcs.iie.ac.cn/xxaqxb/ch/first_menu.aspx?parent_id=20240524145637001), 2024-present
-* [Senior Reviewer Board of IEEE RAS Young Reviewers Program](https://www.ieee-ras.org/students/young-reviewers-program), 2024-present
-* [Associate Editor of IET Information Security (CCF C)](https://www.hindawi.com/journals/ietis/editors/), 2023-present
+
+* [Associate Editor of IET Information Security](https://www.hindawi.com/journals/ietis/editors/), 2023-present
 * [Distinguished Reviewer Board of ACM Transactions on the Web (CCF B)](https://dl.acm.org/journal/tweb), 2022-present
 
 Reviewer
