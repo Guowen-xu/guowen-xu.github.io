@@ -20,7 +20,7 @@ Editorial Board:
 * [Associate Editor of ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Information Forensics and Security ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology](https://ieee-cas.org/publication/tcsvt), 2024-present
-*  [Associate Editor of Pattern Recognition ](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
+*  [Associate Editor of Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
 * [Area Editor of Information Fusion ](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
 * [Associate Editor of ACM Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
