@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">I am currently a Postdoc research fellow at City University of Hong Kong under the supervision of Prof.<a href = "https://www.cs.cityu.edu.hk/~yugufang/"><b>Yuguang Fang</b></a>. I was a  Research  Fellow at Nanyang Technolgoical University from March 2021 to May 2023. I obtained my Ph.D. degree from University of Electronic Science and Technology of China, under the supervision of Prof. <a href = "https://scholar.google.com.hk/citations?hl=zh-CN&user=-o6u2gwAAAAJ&view_op=list_works&sortby=pubdate"><b>Hongwei Li</b></a>. From August 2019 to August 2020,  I visited the  <a href = "https://smc.smu.edu.sg/"><b>Secure Mobile Center</b></a> in the School of Information Systems at Singapore Management University under the supervision of Prof. <a href = "http://www.mysmu.edu/faculty/robertdeng/"><b>Robert H.Deng</b></a>. I prefer to work on applying cryptographic techniques in building secure protocols to solve problems in real application scenarios. My current research interests focus on different topics related to AI Security and Privacy.</p>
+<p align="justify">I am currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong and a  Research  Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on different topics related to AI Security and Privacy.</p>
 
 
 
