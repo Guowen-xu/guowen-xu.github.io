@@ -15,7 +15,7 @@ redirect_from:
 
   🔥 What's News
 ====== 
---   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.08. Dr. Guowen Xu was invited to serve as the  <b>Area Chair of ICLR 2025</b>!</font></p>
+-  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.08. Dr. Guowen Xu was invited to serve as the  <b>Area Chair of ICLR 2025</b>!</font></p>
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.08.  Dr. Guowen Xu was invited to join the <b>Senior program committee of AAAI 2025 </b>!</font></p> 
 -   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.06. One paper was accepted by <b>IEEE TIFS</b>!</font></p>
  
