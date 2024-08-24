@@ -6,7 +6,8 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
-* [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2025
+*  [Area Chair of Thirteenth International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025), 2024
+*  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2025
 * [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS)](https://neurips.cc/), 2024
 * [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), 2024
 * [Area Chair of International Conference on Machine Learning (ICML)](https://icml.cc/), 2024
