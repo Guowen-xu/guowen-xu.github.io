@@ -82,7 +82,7 @@ redirect_from:
 Contact
 ======
 
-<p align="justify"> <font face="Times New Roman" color=black size=4> <b>Email: guowen.xu@foxmail.com</b></font></p>
+<p align="justify"> <font face="Times New Roman" color=black size=4> <b>Email: guowen.xu@uestc.edu.cn</b></font></p>
 
 
 
