@@ -51,7 +51,6 @@ redirect_from:
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.08. One paper was accepted by <b>IEEE TIFS</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.07. One paper was accepted by  <b>IEEE S&P 2024</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.06. One paper was  accepted by  <b>IEEE  TDSC</b>!</font></p>
--  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.06. I joined the <b>Editoral Board of  IET Information Security</b>!</font></p> 
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.06. One paper was accepted by  <b>IEEE TDSC</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.06. One paper was accepted by  <b>IEEE TIFS</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2023.05. One paper  got the <b>Best Paper Award</b> of IEEE BigDataSecurity 2023!</font></p>
