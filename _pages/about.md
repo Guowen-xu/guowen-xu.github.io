@@ -18,6 +18,7 @@ redirect_from:
 
   🔥 What's News
 ====== 
+- <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09. One paper was accepted by <b>IEEE TIFS</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09.  I was invited to join the <b>Editorial Board of The Innovation (IF:33.2) </b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.08. One paper was accepted by <b>ACM CCS 2024</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.08. I was invited to serve as the  <b>Area Chair of ICLR 2025</b>!</font></p>
