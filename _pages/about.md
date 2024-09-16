@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">I am currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong and a  Research  Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on  AI Security and Privacy.</p>
+<p align="justify"><font face="Times New Roman" color=black size=4>I am currently a full professor with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China. Prior to joining UESTC, I was a Postdoc research fellow at City University of Hong Kong and a  Research  Fellow at Nanyang Technolgoical University from 2021 to 2024. My current research interests focus on  AI Security and Privacy.</p>
 
 
 
