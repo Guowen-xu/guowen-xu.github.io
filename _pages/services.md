@@ -8,7 +8,7 @@ Technical Program Committee:
 ======
 *  [Area Chair of Thirteenth International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025), 2025
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2025
-*. [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS)](https://aamas2025.org), 2025
+*  [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS)](https://aamas2025.org), 2025
 *   [The 29th Financial Cryptography and Data Security Conference(FC)](https://fc25.ifca.ai), 2025
 * [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS)](https://neurips.cc/), 2024
 * [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), 2024
