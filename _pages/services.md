@@ -6,7 +6,7 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
-*. [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)](https://cscw.acm.org/2025/), 2025
+*  [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)](https://cscw.acm.org/2025/), 2025
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025), 2025
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2025
 *  [The 32nd IEEE Conference on Virtual Reality (VR)](http://ieeevr.org/2025/), 2025
