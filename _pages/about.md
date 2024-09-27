@@ -18,7 +18,8 @@ redirect_from:
 
   🔥 What's News
 ====== 
--  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09.  I was invited to join the <b>program committee of The 32nd IEEE Conference on Virtual Reality </b>!</font></p>
+-  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09.  I was invited to serve as the <b>Associate Chair of the CSCW 2025 (CCF A)</b>!</font></p>
+-   <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09.  I was invited to join the <b>program committee of The 32nd IEEE Conference on Virtual Reality (CCF A)</b>!</font></p>
 -  <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09.  I was invited to join the <b>program committee of AAMAS 2025 </b>!</font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09. I was invited to serve on the  <b>program committee for the 29th Financial Cryptography and Data Security Conference(FC)</b>!</font></p>
 - <p align="justify">&nbsp;🎉<font face="Times New Roman" color=black size=4>2024.09. One paper was accepted by <b>IEEE TIFS</b>!</font></p>
