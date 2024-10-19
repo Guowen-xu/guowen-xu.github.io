@@ -12,7 +12,7 @@ Technical Program Committee:
 *  [ACM CHI conference on Human Factors in Computing Systems(CHI'25)](https://chi2025.acm.org)
 * [The 30th Annual ACM Conference on Intelligent User Interfaces(IUI'25)](https://iui.acm.org/2025/)
 *   [The 32nd IEEE Conference on Virtual Reality (VR'25)](http://ieeevr.org/2025/)
-*   [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS'25)](https://aamas2025.org
+*   [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS'25)](https://aamas2025.org)
 *   [The 29th Financial Cryptography and Data Security Conference(FC'25)](https://fc25.ifca.ai)
 * [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS'24)](https://neurips.cc/)
 * [Annual Computer Security Applications Conference (ACSAC'24)](https://www.acsac.org)
