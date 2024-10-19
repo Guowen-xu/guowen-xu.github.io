@@ -9,7 +9,7 @@ Technical Program Committee:
 *  [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW)](https://cscw.acm.org/2025/), 2025
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR)](https://iclr.cc/Conferences/2025), 2025
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2025
-*  [ACM CHI conference on Human Factors in Computing Systems](https://chi2025.acm.org), 2025
+*  [ACM CHI conference on Human Factors in Computing Systems(CHI)](https://chi2025.acm.org), 2025
 * [The 30th Annual ACM Conference on Intelligent User Interfaces(IUI)](https://iui.acm.org/2025/), 2025
 *   [The 32nd IEEE Conference on Virtual Reality (VR)](http://ieeevr.org/2025/), 2025
 *   [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS)](https://aamas2025.org), 2025
@@ -17,11 +17,9 @@ Technical Program Committee:
 * [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS)](https://neurips.cc/), 2024
 * [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), 2024
 * [Area Chair of International Conference on Machine Learning (ICML)](https://icml.cc/), 2024
-* [2024 IEEE International Conference on Communications (ICC)](https://icc2024.ieee-icc.org/), 2024
-* [The 20th Annual International Conference on Privacy, Security & Trust (PST)](https://pstnet.ca/), 2023
 * [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI-23/), 2023
 * [The ACM Web Conference 2023 (WWW)](https://www2023.thewebconf.org/), 2023
-* [International Conference on Knowledge Science, Engineering and Management (KSEM)](https://ksem22.smart-conf.net/committee.html), 2022.
+
   
 Editorial Board:
 ======
