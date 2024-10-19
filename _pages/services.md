@@ -27,12 +27,9 @@ Editorial Board:
 ======
 * [Associate Editor of IEEE Transactions on Information Forensics and Security ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology](https://ieee-cas.org/publication/tcsvt), 2024-present
-* [Ediotr of The Innovation](https://www.sciencedirect.com/journal/the-innovation), 2024-present
-*  [Associate Editor of Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
-* [Area Editor of Information Fusion ](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 * [Associate Editor of IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
 * [Associate Editor of ACM Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
 * [Lead Guest Editor of ACM Transactions on Autonomous and Adaptive Systems](https://dl.acm.org/journal/taas/calls-for-papers), 2024-present
-* [Youth Editorial Board of Cybersecurity](https://cybersecurity.springeropen.com), 2024-present
-* [信息安全学报青年编委](http://jcs.iie.ac.cn/xxaqxb/ch/first_menu.aspx?parent_id=20240524145637001), 2024-present
+*  [Associate Editor of Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
+* [Area Editor of Information Fusion ](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 * [Distinguished Reviewer Board of ACM Transactions on the Web ](https://dl.acm.org/journal/tweb), 2022-present
