@@ -10,6 +10,7 @@ Technical Program Committee:
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)](https://iclr.cc/Conferences/2025)
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)](https://aaai.org/Conferences/AAAI-23/)
 *  [ACM CHI conference on Human Factors in Computing Systems(CHI'25)](https://chi2025.acm.org)
+*  [IEEE European Symposium on Security and Privacy(EuroS&P'25)](https://eurosp2025.ieee-security.org/committee-program.html)
 * [The 30th Annual ACM Conference on Intelligent User Interfaces(IUI'25)](https://iui.acm.org/2025/)
 *   [The 32nd IEEE Conference on Virtual Reality (VR'25)](http://ieeevr.org/2025/)
 *   [24th International Conference on Autonomous Agents and Multiagent Systems(AAMAS'25)](https://aamas2025.org)
