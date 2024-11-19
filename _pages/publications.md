@@ -8,8 +8,7 @@ author_profile: true
 
 You can find my articles on my [Google Scholar](https://scholar.google.com.hk/citations?user=MDKdG80AAAAJ&hl=zh-CN) or [DBLP](https://dblp.org/pid/87/10142.html).
 
-# 📝 Representative papers 
-<b><font face="Times New Roman" color=black size=5> *Corresponding author; </font></b><b><font face="Times New Roman" color=black size=5>  
+# 📝 Representative papers  
 
 # 2024 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'24]</font></b> Jianfei Sun, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Honggwei Li, Tianwei Zhang, Cong Wu,  Xuehuan Yang,  Robert H. Deng. Sanitizable Cross-domain Access Control with Policy-driven Dynamic Authorization. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
