@@ -6,7 +6,8 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
-*  [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)](https://cscw.acm.org/2025/)
+* [Area Chair of International Conference on Machine Learning (ICML'25)](https://icml.cc/)
+*   [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)](https://cscw.acm.org/2025/)
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)](https://iclr.cc/Conferences/2025)
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)](https://aaai.org/Conferences/AAAI-23/)
 *  [ACM CHI conference on Human Factors in Computing Systems(CHI'25)](https://chi2025.acm.org)
@@ -17,7 +18,7 @@ Technical Program Committee:
 *   [The 29th Financial Cryptography and Data Security Conference(FC'25)](https://fc25.ifca.ai)
 * [Thirty-eighth Annual Conference on Neural Information Processing Systems(NeurIPS'24)](https://neurips.cc/)
 * [Annual Computer Security Applications Conference (ACSAC'24)](https://www.acsac.org)
-* [Area Chair of International Conference on Machine Learning (ICML'24)](https://icml.cc/)
+* [Area Chair of International Conference on Machine Learning (ICML'24)](https://icml.cc/Conferences/2024)
 * [Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI'23)](https://aaai.org/Conferences/AAAI-23/)
 * [The ACM Web Conference 2023 (WWW'23)](https://www2023.thewebconf.org/)
 
