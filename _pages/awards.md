@@ -7,7 +7,6 @@ author_profile: true
 
 * **Outstanding Youth Editor Award**, Cybersecurity journal(Springer), 2024
 * **IEEE BigDataSecurity Best paper Award**, IEEE Computer Society, 2023.
-* **Distinguished Reviewer of ACM Transactions on the Web**, ACM, 2022-2024
 * **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**, CAAI, 2021
 * **Excellent Doctoral Dissertation Award**,  UESTC, 2021
 * **Outstanding Graduate Student in Sichuan Province**, Sichuan Province, June 2021
