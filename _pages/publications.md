@@ -10,6 +10,10 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 # 📝 Representative papers  
 
+
+# 2024 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [AAAI'25]</font></b> Yang Wei, Jingyu Tan, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Zhuoran Ma, Zhuo Ma, Bin Xiao. Power of Diversity: Enhancing Data-Free Black-Box Attack with Domain-Augmented Learning. <font face="Times New Roman" color=black size=4> Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)</font>, 2025.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 # 2024 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'24]</font></b> Jianfei Sun, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Honggwei Li, Tianwei Zhang, Cong Wu,  Xuehuan Yang,  Robert H. Deng. Sanitizable Cross-domain Access Control with Policy-driven Dynamic Authorization. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
@@ -20,6 +24,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [EuroS&P'24]</font></b> Guanlin Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Han Qiu, Shangwei Guo, Run Wang, Jiwei Li,  Tianwei Zhang, Rongxing Lu. Fingerprinting Image-to-Image Generative Adversarial Networks.  <font face="Times New Roman" color=black size=4> IEEE European Symposium on Security and Privacy(EuroS&P)</font>, 2024.
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [CCS'24]</font></b> Cong Wu, Jing Chen, Ziming Zhao, Kun He, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yueming Wu, Haijun Wang, Honggwei Li, Yang Liu, Yang Xiang. TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning. <font face="Times New Roman" color=black size=4> The 31st ACM Conference on Computer and Communications Security (CCS)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 
 *  <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'24]</font></b> Wenfeng Huang, Axin Wu, Shengmin Xu,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Wei Wu.EASNs: Efficient Anonymous Social Networks with Enhanced Security and High Scalability. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 * <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'24]</font></b> Xiaoyuan Liu, Hongwei Li,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Xilin Zhang, Tianwei Zhang, Jianying Zhou.Secure and Lightweight Feature Selection for Horizontal Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
