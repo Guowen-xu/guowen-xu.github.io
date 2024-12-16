@@ -10,6 +10,7 @@ Technical Program Committee:
 *   [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)](https://cscw.acm.org/2025/)
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)](https://iclr.cc/Conferences/2025)
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)](https://aaai.org/Conferences/AAAI-23/)
+*  [Area Chair of International Joint Conference on Neural Networks(IJCNN'25)](https://2025.ijcnn.org)
 *  [ACM CHI conference on Human Factors in Computing Systems(CHI'25)](https://chi2025.acm.org)
 *  [IEEE European Symposium on Security and Privacy(EuroS&P'25)](https://eurosp2025.ieee-security.org/committee-program.html)
 * [The 30th Annual ACM Conference on Intelligent User Interfaces(IUI'25)](https://iui.acm.org/2025/)
