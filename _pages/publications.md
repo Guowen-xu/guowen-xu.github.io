@@ -16,6 +16,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [AAAI'25]</font></b> Senkang Hu, Yihang Tao, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yiqin Deng, Xianhao Chen, Yuguang Fang, Sam Kwong. CP-Guard: Malicious Agent Detection and Defense in Collaborative Bird’s Eye View Perception. <font face="Times New Roman" color=black size=4> Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)</font>, 2025.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'25]</font></b> Wenbo Jiang, Hongwei Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hao Ren, Haomiao Yang, Tianwei Zhang. Rethinking the Design of Backdoor Triggers and Adversarial Perturbations: A Color Space Perspective. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2025.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 # 2024 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'24]</font></b> Jianfei Sun, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Honggwei Li, Tianwei Zhang, Cong Wu,  Xuehuan Yang,  Robert H. Deng. Sanitizable Cross-domain Access Control with Policy-driven Dynamic Authorization. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2024.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
