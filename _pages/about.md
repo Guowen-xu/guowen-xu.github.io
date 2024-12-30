@@ -12,7 +12,7 @@ redirect_from:
 
 I have published over 50 CCF-A papers
 in reputable security conferences/journals, such as IEEE S&P, ACM CCS, ICML, NeurIPS, CVPR, TDSC and TIFS.
-Currently, I serve as the area editor for Information Fusion, the Associate Editor for IEEE
+Currently, I serve as the Area Editor for Information Fusion, the Associate Editor for IEEE
 Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Circuits and
 Systems for Video Technology (TCSVT), IEEE Transactions on Network and Service Management
 (TNSM), Pattern Recognition and Lead Guest Editor of ACM Transactions on Autonomous and
