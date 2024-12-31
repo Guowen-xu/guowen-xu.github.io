@@ -6,7 +6,7 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
-* <font face="Times New Roman" color=black size=4> [Area Chair of International Conference on Machine Learning (ICML'25)](https://icml.cc/)</font>
+*  [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'25)</font>](https://icml.cc/)
 *   [Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)](https://cscw.acm.org/2025/)
 *   [Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)](https://iclr.cc/Conferences/2025)
 *  [Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)](https://aaai.org/Conferences/AAAI-23/)
