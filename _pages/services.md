@@ -6,7 +6,7 @@ author_profile: true
 ---
 Technical Program Committee:
 ======
-*  [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'25)</font>](https://icml.cc/)
+*  [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'25) </font>](https://icml.cc/)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2025/)
 *   [<font face="Times New Roman" color=black size=4> Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)</font>](https://iclr.cc/Conferences/2025)
 *  [<font face="Times New Roman" color=black size=4>Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)</font>](https://aaai.org/Conferences/AAAI-23/)
@@ -26,11 +26,11 @@ Technical Program Committee:
   
 Editorial Board:
 ======
-* [Associate Editor of IEEE Transactions on Information Forensics and Security ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
-* [Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology](https://ieee-cas.org/publication/tcsvt), 2024-present
-* [Associate Editor of IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
-* [Associate Editor of ACM Digital Threats: Research and Practice](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
-* [Lead Guest Editor of ACM Transactions on Autonomous and Adaptive Systems](https://dl.acm.org/journal/taas/calls-for-papers), 2024-present
-*  [Associate Editor of Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
-* [Area Editor of Information Fusion ](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
-* [Distinguished Reviewer Board of ACM Transactions on the Web ](https://dl.acm.org/journal/tweb), 2022-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Information Forensics and Security</font> ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology</font>](https://ieee-cas.org/publication/tcsvt), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Network and Service Management</font>](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of ACM Digital Threats: Research and Practice</font>](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Lead Guest Editor of ACM Transactions on Autonomous and Adaptive Systems</font>](https://dl.acm.org/journal/taas/calls-for-papers), 2024-present
+*  [ <font face="Times New Roman" color=black size=4>Associate Editor of Pattern Recognition</font>](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Area Editor of Information Fusion</font> ](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Distinguished Reviewer Board of ACM Transactions on the Web</font> ](https://dl.acm.org/journal/tweb), 2022-present
