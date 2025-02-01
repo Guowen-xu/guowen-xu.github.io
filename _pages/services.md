@@ -12,7 +12,7 @@ Technical Program Committee:
 *   [<font face="Times New Roman" color=black size=4> Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)</font>](https://iclr.cc/Conferences/2025)
 *  [<font face="Times New Roman" color=black size=4>Senior Program Committee of Thirty-ninth AAAI Conference on Artificial Intelligence (AAAI'25)</font>](https://aaai.org/Conferences/AAAI-23/)
 *  [<font face="Times New Roman" color=black size=4>Area Chair of International Joint Conference on Neural Networks(IJCNN'25)</font>](https://2025.ijcnn.org)
-*  [<font face="Times New Roman" color=black size=4>ACM CHI conference on Human Factors in Computing Systems(CHI'25)</font>](https://chi2025.acm.org)
+*    [<font face="Times New Roman" color=black size=4>ACM CHI conference on Human Factors in Computing Systems(CHI'25)</font>](https://chi2025.acm.org)
 *  [<font face="Times New Roman" color=black size=4>IEEE European Symposium on Security and Privacy(EuroS&P'25)</font>](https://eurosp2025.ieee-security.org/committee-program.html)
 * [<font face="Times New Roman" color=black size=4>The 30th Annual ACM Conference on Intelligent User Interfaces(IUI'25)</font>](https://iui.acm.org/2025/)
 *   [<font face="Times New Roman" color=black size=4>The 32nd IEEE Conference on Virtual Reality (VR'25)</font>](http://ieeevr.org/2025/)
