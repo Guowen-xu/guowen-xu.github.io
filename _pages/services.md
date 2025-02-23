@@ -4,6 +4,16 @@ title: "Services"
 permalink: /services/
 author_profile: true
 ---
+
+Editorial Board:
+======
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Dependable and Secure Computing</font> ](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing), 2025-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Information Forensics and Security</font> ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology</font>](https://ieee-cas.org/publication/tcsvt), 2024-present
+* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Network and Service Management</font>](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
+
+
+
 Technical Program Committee:
 ======
 *  [ <font face="Times New Roman" color=black size=4> Area Chair of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25) </font>](https://kdd2025.kdd.org/applied-data-science-ads-track-call-for-papers/)
@@ -27,9 +37,3 @@ Technical Program Committee:
 * [<font face="Times New Roman" color=black size=4>The ACM Web Conference 2023 (WWW'23)</font>](https://www2023.thewebconf.org/)
 
   
-Editorial Board:
-======
-* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Dependable and Secure Computing</font> ](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing), 2025-present
-* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Information Forensics and Security</font> ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
-* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology</font>](https://ieee-cas.org/publication/tcsvt), 2024-present
-* [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Network and Service Management</font>](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
