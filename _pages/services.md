@@ -46,7 +46,7 @@ Technical Community Member:
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on High Performance Computing </font>](https://tc.computer.org/tchpc/)
 *   [ <font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Intelligent Informatics </font>](https://www.wi-lab.com/tcii/index.shtml)
 *   [ <font face="Times New Roman" color=black size=4>IEEE Internet of Things Community </font>](https://iot.ieee.org/)
-*   [<font face="Times New Roman" color=black size=4> EEE Computer Society Technical Community on Pattern Analysis and Machine Intelligence </font>](https://www.computer.org/)
+*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Pattern Analysis and Machine Intelligence </font>](https://www.computer.org/)
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Multimedia Computing </font>](https://www.computer.org/)
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Security and Privacy </font>](https://www.ieee-security.org/index.html)
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Security and Privacy </font>](https://www.ieee-security.org/index.html)
