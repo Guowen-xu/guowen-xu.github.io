@@ -49,7 +49,6 @@ Technical Community Member:
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Pattern Analysis and Machine Intelligence </font>](https://www.computer.org/)
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Multimedia Computing </font>](https://www.computer.org/)
 *   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Security and Privacy </font>](https://www.ieee-security.org/index.html)
-*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Security and Privacy </font>](https://www.ieee-security.org/index.html)
 *    [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Services Computing </font>](http://tab.computer.org/tcsvc/index.html)
 
 
