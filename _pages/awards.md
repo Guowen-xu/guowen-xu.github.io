@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* **Computing's Top 30 Early Career Professionals**, IEEE Computer Society, 2025
 * **IEEE Early Career Speaker**, IEEE Computer Society, 2025.
 * **Outstanding Youth Editor Award**, Cybersecurity journal(Springer), 2024
 * **IEEE BigDataSecurity Best paper Award**, IEEE Computer Society, 2023.
