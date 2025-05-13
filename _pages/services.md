@@ -12,7 +12,7 @@ Editorial Board:
 *  [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing</font>](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/editorial-board), 2025-present
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology</font>](https://ieee-cas.org/publication/tcsvt), 2024-present
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Network and Service Management</font>](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
-
+* [ <font face="Times New Roman" color=black size=4>Consulting Associate Editor of IEEE Open Journal of Signal Processing</font>](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/editorial-board), 2023-present
 
 
 Technical Program Committee:
