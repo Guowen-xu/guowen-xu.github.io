@@ -17,6 +17,7 @@ Editorial Board:
 
 Technical Program Committee:
 ======
+*  [<font face="Times New Roman" color=black size=4> Associate Chair of Post track at the 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2025/)
 *  [ <font face="Times New Roman" color=black size=4> Area Chair of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25) </font>](https://kdd2025.kdd.org/applied-data-science-ads-track-call-for-papers/)
 *   [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'25) </font>](https://icml.cc/)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2025/)
