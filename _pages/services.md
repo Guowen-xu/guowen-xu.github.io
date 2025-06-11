@@ -19,7 +19,7 @@ Technical Program Committee:
 ======
 *  [<font face="Times New Roman" color=black size=4> Program Chair of 18th IEEE International Conference on Internet of Things (iThings'25)</font>](https://ieee-cybermatics.org/2025/ithings/)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of Poster Cycle at the 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2025/)
-*  [ <font face="Times New Roman" color=black size=4> Area Chair of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25) </font>](https://kdd2025.kdd.org/applied-data-science-ads-track-call-for-papers/)
+*  [ <font face="Times New Roman" color=black size=4> Area Chair of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25, <font face="Times New Roman" color=red size=4> Outstanding Reviewer</font>) </font>](https://kdd2025.kdd.org/applied-data-science-ads-track-call-for-papers/)
 *   [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'25) </font>](https://icml.cc/)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2025/)
 *   [<font face="Times New Roman" color=black size=4> Area Chair of Thirteenth International Conference on Learning Representations (ICLR'25)</font>](https://iclr.cc/Conferences/2025)
