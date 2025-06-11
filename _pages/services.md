@@ -13,6 +13,9 @@ Editorial Board:
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Circuits and Systems for Video Technology</font>](https://ieee-cas.org/publication/tcsvt), 2024-present
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Network and Service Management</font>](https://www.comsoc.org/publications/journals/ieee-tnsm/ieee-transactions-network-and-service-management-editorial-board), 2024-present
 * [ <font face="Times New Roman" color=black size=4>Consulting Associate Editor of IEEE Open Journal of Signal Processing</font>](https://signalprocessingsociety.org/publications-resources/ieee-open-journal-signal-processing/editorial-board), 2023-present
+* [ <font face="Times New Roman" color=black size=4> Associate Editor of ACM Digital Threats: Research and Practice </font>](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
+*  [ <font face="Times New Roman" color=black size=4> Associate Editor of Pattern Recognition </font>](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
+*  [ <font face="Times New Roman" color=black size=4> Area Editor of Information Fusion </font>](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 
 
 Technical Program Committee:
