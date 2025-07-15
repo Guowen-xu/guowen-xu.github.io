@@ -20,7 +20,7 @@ Editorial Board:
 
 Technical Program Committee:
 ======
-*  [ <font face="Times New Roman" color=black size=4> Area Chair of 31nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26, <font face="Times New Roman" color=red size=4></font>) </font>](https://kdd2026.kdd.org/)
+*  [ <font face="Times New Roman" color=black size=4> Area Chair of 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26, <font face="Times New Roman" color=red size=4></font>) </font>](https://kdd2026.kdd.org/)
 * [<font face="Times New Roman" color=black size=4>Senior Program Committee of 40-th AAAI Conference on Artificial Intelligence (AAAI'26)</font>](https://aaai.org/conference/aaai/aaai-26/)
 * [<font face="Times New Roman" color=black size=4>The 35th USENIX Security Symposium(Usenix Security'26)</font>](https://www.usenix.org/conference/usenixsecurity26)
 *   [<font face="Times New Roman" color=black size=4> Program Chair of 18th IEEE International Conference on Internet of Things (iThings'25)</font>](https://ieee-cybermatics.org/2025/ithings/)
