@@ -17,6 +17,13 @@ Editorial Board:
 *  [ <font face="Times New Roman" color=black size=4> Associate Editor of Pattern Recognition </font>](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
 *  [ <font face="Times New Roman" color=black size=4> Area Editor of Information Fusion </font>](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
 
+Review Board:
+======
+* [ <font face="Times New Roman" color=black size=4>Technical Review Board of IEEE Transactions on Parallel and Distributed Systems (TPDS)  </font> ](https://www.computer.org/csdl/journal/td/about/107377), 2025-present
+* [ <font face="Times New Roman" color=black size=4>Distinguished Reviewers Board of ACM Transactions on the Web</font> ](https://dl.acm.org/journal/tweb/distinguished-reviewers-board), 2022-present
+
+
+
 
 Technical Program Committee:
 ======
