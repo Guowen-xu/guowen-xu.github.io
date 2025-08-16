@@ -27,7 +27,8 @@ Review Board:
 
 Technical Program Committee:
 ======
-*  [ <font face="Times New Roman" color=black size=4> Area Chair of 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) <font face="Times New Roman" color=red size=4></font></font>](https://kdd2026.kdd.org/)
+*  [<font face="Times New Roman" color=black size=4> Area Chair of International Conference on Learning Representations (ICLR'26)</font>](https://iclr.cc/Conferences/2026)
+*   [ <font face="Times New Roman" color=black size=4> Area Chair of 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) <font face="Times New Roman" color=red size=4></font></font>](https://kdd2026.kdd.org/)
 * [<font face="Times New Roman" color=black size=4>Senior Program Committee of 40-th AAAI Conference on Artificial Intelligence (AAAI'26)</font>](https://aaai.org/conference/aaai/aaai-26/)
 * [<font face="Times New Roman" color=black size=4>The ACM Conference on Computer and Communications Security (CCS'26)</font>](https://www.sigsac.org/ccs/CCS2025/)
 * [<font face="Times New Roman" color=black size=4>The 35th USENIX Security Symposium(Usenix Security'26)</font>](https://www.usenix.org/conference/usenixsecurity26)
