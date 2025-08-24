@@ -16,6 +16,7 @@ Editorial Board:
 * [ <font face="Times New Roman" color=black size=4> Associate Editor of ACM Digital Threats: Research and Practice </font>](https://dl.acm.org/journal/dtrap/editorial-board), 2024-present
 *  [ <font face="Times New Roman" color=black size=4> Associate Editor of Pattern Recognition </font>](https://www.sciencedirect.com/journal/pattern-recognition/about/editorial-board), 2024-present
 *  [ <font face="Times New Roman" color=black size=4> Area Editor of Information Fusion </font>](https://www.sciencedirect.com/journal/information-fusion/about/editorial-board), 2024-present
+*  [ <font face="Times New Roman" color=black size=4> Editor of Cybersecurity </font>](https://cybersecurity.springeropen.com/about/editorial-board), 2023-present
 
 Review Board:
 ======
