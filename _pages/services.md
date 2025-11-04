@@ -7,6 +7,7 @@ author_profile: true
 
 Editorial Board:
 ======
+*  [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Pattern Analysis and Machine Intelligence</font> ](https://www.computer.org/csdl/journal/tp), 2025-present
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Dependable and Secure Computing</font> ](https://www.computer.org/csdl/journal/tq/about/107350?title=Editorial%20Board&periodical=IEEE%20Transactions%20on%20Dependable%20and%20Secure%20Computing), 2025-present
 * [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Information Forensics and Security</font> ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security/editorial-board), 2024-present
 *  [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE/ACM Transactions on Audio, Speech and Language Processing</font>](https://signalprocessingsociety.org/publications-resources/ieee-transactions-audio-speech-and-language-processing/editorial-board), 2025-present
