@@ -29,6 +29,7 @@ Review Board:
 
 Technical Program Committee:
 ======
+*   [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'26) </font>](https://icml.cc/)
 * [<font face="Times New Roman" color=black size=4> Area Chair of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'26)</font>](https://2026.ieeeicassp.org/)
 *  [<font face="Times New Roman" color=black size=4> Area Chair of International Conference on Learning Representations (ICLR'26)</font>](https://iclr.cc/Conferences/2026)
 *   [ <font face="Times New Roman" color=black size=4> Area Chair of 32nd SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'26) <font face="Times New Roman" color=red size=4></font></font>](https://kdd2026.kdd.org/)
