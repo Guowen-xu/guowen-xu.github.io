@@ -62,18 +62,6 @@ Technical Program Committee:
 
 
 
-Technical Community Member:
-======
-*  [ <font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Data Engineering </font>](http://tab.computer.org/tcde/)
-*   [ <font face="Times New Roman" color=black size=4>IEEE Computer Society Technical Community on Dependable Computing and Fault Tolerance </font>](https://www.dependability.org/)
-*   [<font face="Times New Roman" color=black size=4> IEEE Digital Privacy Community</font>](https://digitalprivacy.ieee.org/)
-*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on High Performance Computing </font>](https://tc.computer.org/tchpc/)
-*   [ <font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Intelligent Informatics </font>](https://www.wi-lab.com/tcii/index.shtml)
-*   [ <font face="Times New Roman" color=black size=4>IEEE Internet of Things Community </font>](https://iot.ieee.org/)
-*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Pattern Analysis and Machine Intelligence </font>](https://www.computer.org/)
-*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Multimedia Computing </font>](https://www.computer.org/)
-*   [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Security and Privacy </font>](https://www.ieee-security.org/index.html)
-*    [<font face="Times New Roman" color=black size=4> IEEE Computer Society Technical Community on Services Computing </font>](http://tab.computer.org/tcsvc/index.html)
 
 
 
