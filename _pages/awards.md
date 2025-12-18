@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* **IEEE Signal Processing Society Best Paper Award**, IEEE Signal Processing Society, 2025
 * **IEEE R10 Young Professionals Outstanding Volunteer in Academic Award**, IEEE Region 10 Young Professionals, 2025
 * **IEEE TCHS Young Researcher Award**, IEEE Systems, Man, and Cybernetics Society, 2025
 * **Computing's Top 30 Early Career Professionals**, IEEE Computer Society, 2024
