@@ -29,7 +29,7 @@ Review Board:
 
 Technical Program Committee:
 ======
-*   [ <font face="Times New Roman" color=black size=4> Member of IEEE Region 10 Young Professionals Committee (YPC </font>](https://yp.ieeer10.org/)
+*   [ <font face="Times New Roman" color=black size=4> Member of IEEE Region 10 Young Professionals Committee (YPC) </font>](https://yp.ieeer10.org/)
 *    [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'26) </font>](https://icml.cc/)
 * [<font face="Times New Roman" color=black size=4> Area Chair of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'26)</font>](https://2026.ieeeicassp.org/)
 *  [<font face="Times New Roman" color=black size=4> Area Chair of International Conference on Learning Representations (ICLR'26)</font>](https://iclr.cc/Conferences/2026)
