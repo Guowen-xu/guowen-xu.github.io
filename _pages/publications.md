@@ -12,7 +12,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
 # 2026
-* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Rui Zhang，Yun Shen, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Yuan Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>,  Yang Zhang. Backdoor Complications: A Comprehensive Analysis and Mitigation of the Unforeseen Consequences of Backdoor Attacks. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Rui Zhang, Yun Shen, Hongwei Li, Wenbo Jiang, Hanxiao Chen, Yuan Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>,  Yang Zhang. Backdoor Complications: A Comprehensive Analysis and Mitigation of the Unforeseen Consequences of Backdoor Attacks. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [AAAI'26]</font></b> Xinyuan Qian, Haoyong wang, Hangcheng Cao, Shuai Yuan, Senkang Hu, Qingchuan Zhao, Hongwei Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>. MartDE: A Privacy-Preserving and Cost-Efficient Evaluation Framework for Data Marketplaces. <font face="Times New Roman" color=black size=4> The Fortieth AAAI Conference on Artificial Intelligence (AAAI)</font>, 2025.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
