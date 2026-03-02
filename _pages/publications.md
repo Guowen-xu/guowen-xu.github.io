@@ -29,6 +29,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Haonan An，Guang Hua, Wei Du, Hangcheng Cao, Yihang Tao, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Susanto Rahardja, Yuguang Fang. Decoder Gradient Shields: A Family of Provable and High-Fidelity Methods Against Gradient-Based Box-Free Watermark Removal. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Tao Zheng，Qiyu Hou, Xingshu Chen, Gelei Deng, Tianwei Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li. KubeSec: Automatic Detection of Takeover Risks Introduced by Third-Party Apps in the Kubernetes Ecosystem. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Li Yang, Yinbin Miao, Rongpeng Xie, Xinghua Li, Ju Wu, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Zhiquan Liu, Kim-Kwang Raymond Choo, Robert H Deng. CPFL: Lightweight Communication-Efficient and Privacy-Preserving Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
