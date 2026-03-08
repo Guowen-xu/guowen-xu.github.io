@@ -12,8 +12,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 
 # 2026
-* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Cong Wu, Jing Chen, Jian Shen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Yueming Wu, Haijun Wang, Hongwei Li, Yang Liu, Tao Xiang.Catching Scam Tokens with Temporal Graph
-Learning in Decentralized Finance. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Cong Wu, Jing Chen, Jian Shen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Yueming Wu, Haijun Wang, Hongwei Li, Yang Liu, Tao Xiang.Catching Scam Tokens with Temporal Graph Learning in Decentralized Finance. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Shuai Yuan, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Hongwei Li, Rui Zhang, Xinyuan Qian, Hangcheng Cao, Qingchuan Zhao. FIGhost: Fluorescent Ink-based Stealthy and Flexible Backdoor Attacks on Physical Traffic Sign Recognition. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
