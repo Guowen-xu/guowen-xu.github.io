@@ -30,6 +30,7 @@ Review Board:
 
 Technical Program Committee:
 ======
+*   [<font face="Times New Roman" color=black size=4> Area Chair of The Fortieth Annual Conference on Neural Information Processing Systems(NeurIPS'26)</font>](https://neurips.cc)
 *   [ <font face="Times New Roman" color=black size=4> Member of IEEE Region 10 Young Professionals Committee (YPC) </font>](https://yp.ieeer10.org/)
 *    [<font face="Times New Roman" color=black size=4>Associate Chair of ACM CHI conference on Human Factors in Computing Systems(CHI'26)</font>](https://chi2026.acm.org/)
 *    [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'26) </font>](https://icml.cc/)
