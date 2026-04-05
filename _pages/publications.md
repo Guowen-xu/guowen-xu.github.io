@@ -137,6 +137,10 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TCSVT'23]</font></b> <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Guanlin Li, Shangwei Guo, Tianwei Zhang, Hongwei Li. Secure Decentralized Image Classification with Multiparty Homomorphic Encryption. <font face="Times New Roman" color=black size=4> IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF B</font>)
 
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [ICLR'23]</font></b> Guanlin Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang. Extracting Robust Models with Uncertain Examples. <font face="Times New Roman" color=black size=4> International Conference on Learning Representations(ICLR)</font>,2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
+*  <p align="justify">  <b><font face="Times New Roman" color=black size=4> [ICLR'23]</font></b> Kangjie Chen, Xiaoxuan Lou, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiwei Li, Tianwei Zhang. Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only. <font face="Times New Roman" color=black size=4> International Conference on Learning Representations(ICLR)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 * <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TKDE'23]</font></b> Zhuoran Ma, Jianfeng Ma, Yinbin Miao, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Yang Liu, Ximeng Liu, Robert H. Deng. FLGAN: GAN-Based Unbiased Federated Learning under Non-IID Settings. <font face="Times New Roman" color=black size=4> IEEE Transactions on Knowledge and Data Engineering(TKDE)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>) 
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ICML'23]</font></b> Haoxiao Chen, Hongwei Li, Meng Hao, Kangjie Chen, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, et al. GuardHFL: Privacy Guardian for Heterogeneous Federated Learning. <font face="Times New Roman" color=black size=4> International Conference on Machine Learning(ICML)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
@@ -149,10 +153,6 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 *  <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TSC'23]</font></b> Shengmin Xu, Xingshuo Han, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jianting Ning, et al. An Adaptive Secure and Practical Data Sharing System with Verifiable Outsourced Decryption. <font face="Times New Roman" color=black size=4> IEEE Transactions on Services Computing(TSC)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
-* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [ICLR'23]</font></b> Guanlin Li, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Shangwei Guo, Han Qiu, Jiwei Li, Tianwei Zhang. Extracting Robust Models with Uncertain Examples. <font face="Times New Roman" color=black size=4> International Conference on Learning Representations(ICLR)</font>,2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
-.
-
-*  <p align="justify">  <b><font face="Times New Roman" color=black size=4> [ICLR'23]</font></b> Kangjie Chen, Xiaoxuan Lou, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Jiwei Li, Tianwei Zhang. Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only. <font face="Times New Roman" color=black size=4> International Conference on Learning Representations(ICLR)</font>, 2023.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
 # 2022  
