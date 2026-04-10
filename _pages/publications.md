@@ -39,6 +39,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Li Yang, Yinbin Miao, Rongpeng Xie, Xinghua Li, Ju Wu, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Zhiquan Liu, Kim-Kwang Raymond Choo, Robert H Deng. CPFL: Lightweight Communication-Efficient and Privacy-Preserving Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'26]</font></b>  Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Haomiao Yang, Tianwei Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>.Sanitizer: Blazing-fast, Private and Robust Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 
 
 
