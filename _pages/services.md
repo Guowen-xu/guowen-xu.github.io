@@ -33,7 +33,7 @@ Technical Program Committee:
 ======
 
 *   [ <font face="Times New Roman" color=black size=4> Member of IEEE Region 10 Young Professionals Committee (YPC) </font>](https://yp.ieeer10.org/)
-*   *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2026/)
+*   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'25)</font>](https://cscw.acm.org/2026/)
 *    [<font face="Times New Roman" color=black size=4>Associate Chair of ACM CHI conference on Human Factors in Computing Systems(CHI'26)</font>](https://chi2026.acm.org/)
 *    [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'26) </font>](https://icml.cc/)
 * [<font face="Times New Roman" color=black size=4> Area Chair of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'26)</font>](https://2026.ieeeicassp.org/)
