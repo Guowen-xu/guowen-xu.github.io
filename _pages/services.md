@@ -34,7 +34,8 @@ Technical Program Committee:
 
 *   [ <font face="Times New Roman" color=black size=4> Member of IEEE Region 10 Young Professionals Committee (YPC) </font>](https://yp.ieeer10.org/)
 * [ <font face="Times New Roman" color=black size=4> Member of IEEE Computer Society Standards Activities Board (SAB) Outreach & Communications Standing Committee </font>](https://www.computer.org/volunteering/boards-and-committees/standards-activities/home#sponsored)  
-* [<font face="Times New Roman" color=black size=4>Area Chair of International Joint Conference on Neural Networks(IJCNN'27)</font>](https://attend.ieee.org/wcci-2027/)
+* [<font face="Times New Roman" color=black size=4>Area Chair of 41-st AAAI Conference on Artificial Intelligence (AAAI'27)</font>](https://aaai.org/conference/aaai/aaai-27/)
+*  [<font face="Times New Roman" color=black size=4>Area Chair of International Joint Conference on Neural Networks(IJCNN'27)</font>](https://attend.ieee.org/wcci-2027/)
 * [<font face="Times New Roman" color=black size=4>The ACM Conference on Computer and Communications Security (CCS'26)</font>](https://www.sigsac.org/ccs/CCS2026/)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'26)</font>](https://cscw.acm.org/2026/)
 *    [<font face="Times New Roman" color=black size=4>Associate Chair of ACM CHI conference on Human Factors in Computing Systems(CHI'26)</font>](https://chi2026.acm.org/)
