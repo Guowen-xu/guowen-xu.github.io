@@ -5,7 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**, IEEE Communications Society,2026. 
+* **IEEE-HKN Frank and Shelley Chang Outstanding Young Scholar Award**, IEEE-Eta Kappa Nu, 2026
+* **IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**, IEEE Communications Society,2025
 * **The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) Best Presentation in Session Award**, IEEE Computer Society, 2025
 * **IEEE Signal Processing Society Best Paper Award**, IEEE Signal Processing Society, 2025
 * **IEEE R10 Young Professionals Outstanding Volunteer in Academic Award**, IEEE Region 10 Young Professionals, 2025
