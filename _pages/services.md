@@ -38,6 +38,7 @@ Technical Program Committee:
 *  [<font face="Times New Roman" color=black size=4>Area Chair of International Joint Conference on Neural Networks(IJCNN'27)</font>](https://attend.ieee.org/wcci-2027/)
 *  [<font face="Times New Roman" color=black size=4>Network and Distributed
 System Security (NDSS’27) Symposium</font>](https://www.ndss-symposium.org)
+*  [<font face="Times New Roman" color=black size=4>IEEE European Symposium on Security and Privacy(EuroS&P'27)</font>](https://eurosp2027.ieee-security.org/committee-program.html)
 *   [<font face="Times New Roman" color=black size=4> Associate Chair of The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW'26)</font>](https://cscw.acm.org/2026/)
 *    [<font face="Times New Roman" color=black size=4>Associate Chair of ACM CHI conference on Human Factors in Computing Systems(CHI'26)</font>](https://chi2026.acm.org/)
 *    [ <font face="Times New Roman" color=black size=4> Area Chair of International Conference on Machine Learning (ICML'26) </font>](https://icml.cc/)
