@@ -10,9 +10,12 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 # 📝 Representative papers  
 
+# 2027
+*   <p align="justify"> <b><font face="Times New Roman" color=black size=4> [NDSS'27]</font></b> Haotian Deng, Meng Hao, Hanxiao Chen, Xinyuan Qian,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hongwei Li, Chaoshun Zuo.Beyond Sensitive APIs: Detecting Access Control Flaws at Sensitive Callsites in Android Firmware. <font face="Times New Roman" color=black size=4> The Network and Distributed System Security (NDSS) Symposium</font>, 2027.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 
 # 2026
-*  <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Xinyuan Qian, Hongwei Li,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Haoyong Wang, Hangcheng Cao, Cong Wu, Tianwei Zhang, Yuguang Fang.Perspicio: Safeguarding Against Non-consensual Photo Sharing over Social Networks. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+*   <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Xinyuan Qian, Hongwei Li,  <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Haoyong Wang, Hangcheng Cao, Cong Wu, Tianwei Zhang, Yuguang Fang.Perspicio: Safeguarding Against Non-consensual Photo Sharing over Social Networks. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 *  <p align="justify"> <b><font face="Times New Roman" color=black size=4> [ACL'26]</font></b> Rui Zhang, Hongwei Li, Yun Shen,  Xinyue Shen, Wenbo Jiang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu*</font></b></u>, Yang Liu, Michael Backes, Yang Zhang.	The Art of (Mis)alignment: How Fine-Tuning Methods Effectively Misalign and Realign LLMs in Post-Training. <font face="Times New Roman" color=black size=4> The 64th Annual Meeting of the Association for Computational Linguistics (ACL) </font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
