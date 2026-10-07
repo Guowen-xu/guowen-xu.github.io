@@ -7,7 +7,7 @@ author_profile: true
 
 * 2026 **IEEE-HKN Frank and Shelley Chang Outstanding Young Scholar Award**
 * 2025 **IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**
-* 2025**The 31st IEEE International Conference on Parallel and Distributed Systems Best Presentation Award**
+* 2025 **The 31st IEEE International Conference on Parallel and Distributed Systems Best Presentation Award**
 * 2025 **IEEE Signal Processing Society Best Paper Award**
 * 2025 **IEEE R10 Young Professionals Outstanding Volunteer in Academic Award**
 * 2025 **IEEE SMC Society's Technical Committee on Homeland Security Young Researcher Award**
