@@ -7,6 +7,7 @@ author_profile: true
 
 Editorial Board:
 ======
+*  [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Multimedia </font> ](https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia/editorial-board), 2026-present
 *  [ <font face="Times New Roman" color=black size=4>Associate Editor of ACM Computing Surveys </font> ](https://dl.acm.org/journal/csur/editorial-board), 2026-present
 *   [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Consumer Electronics </font> ](https://ctsoc.ieee.org/publications/ieee-transactions-on-consumer-electronics), 2026-present
 *   [ <font face="Times New Roman" color=black size=4>Associate Editor of IEEE Transactions on Pattern Analysis and Machine Intelligence</font> ](https://www.computer.org/csdl/journal/tp), 2025-present
