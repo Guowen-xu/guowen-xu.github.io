@@ -5,16 +5,15 @@ permalink: /awards/
 author_profile: true
 ---
 
-* **IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**, IEEE Communications Society,2025
-* **The 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS) Best Presentation in Session Award**, IEEE Computer Society, 2025
-* **IEEE Signal Processing Society Best Paper Award**, IEEE Signal Processing Society, 2025
-* **IEEE R10 Young Professionals Outstanding Volunteer in Academic Award**, IEEE Region 10 Young Professionals, 2025
-* **IEEE Systems, Man, and Cybernetics (SMC) Society's Technical Committee on Homeland Security Young Researcher Award**, IEEE Systems, Man, and Cybernetics Society, 2025
-* **Computing's Top 30 Early Career Professionals**, IEEE Computer Society, 2024
-* **IEEE Early Career Speaker**, IEEE Computer Society, 2024.
-* **IEEE 9th Intl Conference on Big Data Security on Cloud (BigDataSecurity) Best paper Award**, IEEE Computer Society, 2023.
-* **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**, CAAI, 2021
-* **Excellent Doctoral Dissertation Award**,  UESTC, 2021
-* **IEEE 26th International Conference on Parallel and Distributed Systems(ICPADS) Best Paper Award**, IEEE Computer Society, 2020
+* **2025 IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**
+* **2025 The 31st IEEE International Conference on Parallel and Distributed Systems  Best Presentation in Session Award**
+* **2025 IEEE Signal Processing Society Best Paper Award**
+* **2025 IEEE R10 Young Professionals Outstanding Volunteer in Academic Award**
+* **2025 IEEE Systems, Man, and Cybernetics (SMC) Society's Technical Committee on Homeland Security Young Researcher Award**
+* **2024 IEEE Computer Society Computing's Top 30 Early Career Professionals**
+* **2024 IEEE Computer Society Early Career Speaker**
+* **2023 IEEE BigDataSecurity Best paper Award**
+* **2021 Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**
+* **2020 IEEE 26th International Conference on Parallel and Distributed Systems Best Paper Award**
 
    
