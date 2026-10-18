@@ -15,7 +15,7 @@ author_profile: true
 * 2024 **IEEE Computer Society Computing's Top 30 Early Career Professionals**
 * 2024 **IEEE Computer Society Early Career Speaker**
 * 2023 **IEEE BigDataSecurity Best paper Award**
-* 2021 **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**
+* 2022 **Wu Wenjun First Prize of Artificial Intelligence Science and Technology Progress**
 * 2020 **IEEE 26th International Conference on Parallel and Distributed Systems Best Paper Award**
 
    
