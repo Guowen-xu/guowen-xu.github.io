@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* 2026 **China Cyberspace Security Conference Distinguished Paper Award**
+* 2026 **Journal of Cybersecurity Outstanding Paper Award**
 * 2026 **IEEE-HKN Frank and Shelley Chang Outstanding Young Scholar Award**
 * 2025 **IEEE Transactions on Network and Service Management Exemplary Associate Editor Award**
 * 2025 **The 31st IEEE International Conference on Parallel and Distributed Systems Best Presentation Award**
