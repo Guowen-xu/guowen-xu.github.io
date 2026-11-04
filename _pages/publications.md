@@ -55,8 +55,7 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'26]</font></b>  Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Haomiao Yang, Tianwei Zhang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>.Sanitizer: Blazing-fast, Private and Robust Federated Learning. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
-* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'26]</font></b> Yongliang Chen,Jinghang Wen,Ruoqin Tang,Tao Ni,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,Chaoshun Zuo,Wei-Bin Lee,
-Qingchuan Zhao,Cong Wang.Uncovering and Measuring Privacy Leakage in Mobile Remote Logging at Scale. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+* <p align="justify">  <b><font face="Times New Roman" color=black size=4> [TIFS'26]</font></b> Yongliang Chen,Jinghang Wen,Ruoqin Tang,Tao Ni,<u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>,Chaoshun Zuo,Wei-Bin Lee, Qingchuan Zhao,Cong Wang.Uncovering and Measuring Privacy Leakage in Mobile Remote Logging at Scale. <font face="Times New Roman" color=black size=4> IEEE Transactions on Information Forensics and Security(TIFS)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
 
