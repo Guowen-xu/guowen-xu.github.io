@@ -46,6 +46,8 @@ You can find my articles on my [Google Scholar](https://scholar.google.com.hk/ci
 
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Haonan An，Guang Hua, Wei Du, Hangcheng Cao, Yihang Tao, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Susanto Rahardja, Yuguang Fang. Decoder Gradient Shields: A Family of Provable and High-Fidelity Methods Against Gradient-Based Box-Free Watermark Removal. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
+* <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Senkang Hu, Yihang Tao, Zihan Fang, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Hangcheng Cao, Yiqin Deng, Sam Tak Wu Kwong, Yuguang Fang. CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
+
 * <p align="justify"> <b><font face="Times New Roman" color=black size=4> [TDSC'26]</font></b> Shiqian Zhao，Meiqing Wu, Yi Xie, Tianlin Li, SiewKei Lam, <u><b><font face="Times New Roman" color=black size=4> Guowen Xu</font></b></u>, Anran Li.Enhancing Stereo Matching Domain Generalization with Adversarial Domain Alignment. <font face="Times New Roman" color=black size=4> IEEE Transactions on Dependable and Secure Computing(TDSC)</font>, 2026.(<font face="Times New Roman" color=red size=4> CCF A</font>)
 
 
